@@ -76,7 +76,7 @@ Para o planejamento do projeto, estamos utilizando o Google Calendar, onde agend
 	</tr>
     <tr>
 		<td>Personas</td>
-		<td>Eduardo eLuís</td>
+		<td>Eduardo e Luís</td>
 		<td>-</td>
 	</tr>
     <tr>
