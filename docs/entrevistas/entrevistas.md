@@ -1,6 +1,6 @@
 # Entrevistas
 <div class="line"></div>
-Realizamos um entrevista com alguns estudantes da FGA afim de saber o interesse que possuem por uma universidade mais empreendedora, suas experiências e vivências dentro da faculdade.
+Realizamos uma entrevista com alguns estudantes da FGA afim de saber o interesse que possuem por uma universidade mais empreendedora, suas experiências e vivências dentro da faculdade.
 
 ## Versões
 
@@ -17,7 +17,7 @@ Realizamos um entrevista com alguns estudantes da FGA afim de saber o interesse 
 	</tr>
 	<tr>
 		<td>1.1</td>
-		<td>Adição da entrevista 02, 03 e 04.</td>
+		<td>Adição das entrevista 02, 03 e 04.</td>
 		<td>12/10/2019</td>
 	</tr>
 </table> 
