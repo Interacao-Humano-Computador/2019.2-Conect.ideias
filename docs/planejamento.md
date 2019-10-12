@@ -23,7 +23,7 @@ Para o planejamento do projeto, estamos utilizando o Google Calendar, onde agend
 |Wiki|Samuel|
 <br>
 
-## Ponto de Controle - 15/10 
+## Ponto de Controle 2 - 15/10 
 <br>
 
 |Tarefa|Participante(s)|
