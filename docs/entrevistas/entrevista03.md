@@ -53,7 +53,7 @@ Mesma razão da anterior.
 #### b) Já participou?
 --
 
-#### c) Não?Por quê?
+#### c) Não? Por quê?
 --
 
 #### d) Quais foram as dificuldades encontradas? O que te motivou a participar do projeto?
