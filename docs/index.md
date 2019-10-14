@@ -1,4 +1,4 @@
-<img draggable=false width="60%" height="60%" src="assets/homepage/logo.png">
+<img draggable=false width="60%" height="60%" src="assets/homepage/meraki_logo.svg">
 <p align="center">Interação Humano Computador</p>
 <div class="line"></div>
 <div class="line"></div>
