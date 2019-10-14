@@ -7,7 +7,7 @@ nav:
   - Storyboard: storyboard.md
   - Metas de usabilidade: metas_usabilidade.md
   - Guia de estilo: estilo_guia.md
-
+  - Entrevistas: entrevistas/entrevistas.md
 theme:
   name: readable
   custom_dir: custom
