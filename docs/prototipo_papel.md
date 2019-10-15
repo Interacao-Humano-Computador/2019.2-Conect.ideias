@@ -18,6 +18,11 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 		<td>Adição do protótipo e dos resultados</td>
 		<td>14/10/2019</td>
 	</tr>
+	<tr>
+		<td>1.5</td>
+		<td>Adição da outra versão protótipo e dos resultados</td>
+		<td>15/10/2019</td>
+	</tr>
 	
 </table> 
 <br>
