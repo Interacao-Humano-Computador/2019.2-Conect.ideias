@@ -1,14 +1,20 @@
-site_name: Conect.Ideas
+site_name: Meraki
 
 nav:
   - Inicial: index.md
   - Planejamento: planejamento.md
-  - Avaliação heurística: avaliacao_heuristica.md
-  - Storyboard: storyboard.md
-  - Metas de usabilidade: metas_usabilidade.md
-  - Guia de estilo: estilo_guia.md
-  - Entrevistas: entrevistas/entrevistas.md
-  - Personas: personas.md
+  - Contexto de Uso:
+    - Storyboard: storyboard.md
+    - Análise de Usuário:
+        - Personas: personas.md
+    - Análise do Uso:
+        - Avaliação heurística: avaliacao_heuristica.md
+    - Técnicas de Análise:
+        - Entrevistas: entrevistas/entrevistas.md
+  - Concepção/Avaliação:
+    - Metas de usabilidade: metas_usabilidade.md
+    - Guia de estilo: estilo_guia.md
+    - Protótipo de Papel: protótipo_papel.md
 theme:
   name: readable
   custom_dir: custom

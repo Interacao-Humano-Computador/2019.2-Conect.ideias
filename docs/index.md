@@ -1,12 +1,12 @@
-<img draggable=false width="60%" height="60%" src="assets/homepage/logo.png">
+<img draggable=false width="60%" height="60%" src="assets/homepage/meraki_logo.svg">
 <p align="center">Interação Humano Computador</p>
 <div class="line"></div>
 <div class="line"></div>
 
 ## Visão Geral
-<p text-align="justify">&emsp;&emsp;Esta wiki busca trazer toda a documentação requisitada pela disciplina de Interação Humano Computador da Universidade de Brasília no período de 2019/2 no curso de Engenharia de Software, tendo como objeto de estudo o website conect.ideas.
+<p text-align="justify">&emsp;&emsp;Esta wiki busca trazer toda a documentação requisitada pela disciplina de Interação Humano Computador da Universidade de Brasília no período de 2019/2 no curso de Engenharia de Software, tendo como objeto de estudo o website Meraki.
 
-&emsp;&emsp;conect.ideas é um website que busca trazer uma espécie de rede social de projetos, possibilitanto a seus usuários a criação, compartilhamento e procura de projetos.</p>
+&emsp;&emsp;Meraki é um website que busca trazer uma espécie de rede social de projetos, possibilitanto a seus usuários a criação, compartilhamento e procura de projetos.</p>
 
 ## Equipe
 &emsp;&emsp;A equipe é composta por seis alunos de Engenharia de Software da Universidade de Brasília, sendo eles:
