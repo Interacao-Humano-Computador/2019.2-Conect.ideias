@@ -11,6 +11,7 @@ nav:
         - Avaliação heurística: avaliacao_heuristica.md
     - Técnicas de Análise:
         - Entrevistas: entrevistas/entrevistas.md
+        - Questionário: questionario.md
     - Guia de estilo: estilo_guia.md
   - Concepção/Avaliação:
     - Guia de estilo: novo_guia.md
