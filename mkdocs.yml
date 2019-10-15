@@ -15,7 +15,8 @@ nav:
   - Concepção/Avaliação:
     - Guia de estilo: novo_guia.md
     - Metas de usabilidade: metas_usabilidade.md
-    - Protótipo de Papel: protótipo_papel.md
+    - Guia de estilo: estilo_guia.md
+    - Protótipo de Papel: prototipo_papel.md
 theme:
   name: readable
   custom_dir: custom
