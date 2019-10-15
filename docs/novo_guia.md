@@ -1,6 +1,6 @@
 # Guia de Estilo
 <div class="line"></div>
-
+<p text-align="justify">&emsp;&emsp;O guia de estilo define a comunicação verbal e visual da aplicação. Ele deve ser desenvolvido levando em consideração qual mensagem e características se quer passar aos usuários.</p>
 ## Versões
 
 <table class="versions">
@@ -31,7 +31,7 @@
 	</tr>	
 </table> 
 
-<p text-align="justify">&emsp;&emsp;O guia de estilo define a comunicação verbal e visual da aplicação. Ele deve ser desenvolvido levando em consideração qual mensagem e características se quer passar aos usuários.</p>
+
 
 <img src="../assets/novo_guia/guia_Prancheta 1.png">
 <p text-align="justify">&emsp;&emsp;A mudança do nome da aplicação tem como objetivo um nome fácil de lembrar e falar, mais curto, único e moderno. Com significado relevante para o contexto.</p>
