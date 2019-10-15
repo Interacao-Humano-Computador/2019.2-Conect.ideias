@@ -1,6 +1,36 @@
 # Guia de Estilo
 <div class="line"></div>
 
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+	<tr>
+		<td>1.0</td>
+		<td>Criação da nova logo.</td>
+		<td>08/10/2019</td>
+	</tr>	
+	<tr>
+		<td>1.1</td>
+		<td>Criação da nova paleta de cores e tipografia.</td>
+		<td>10/10/2019</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Criação da aplicação.</td>
+		<td>11/10/2019</td>
+	</tr>		
+	<tr>
+		<td>1.2</td>
+		<td>Adição do guia de estilo.</td>
+		<td>14/10/2019</td>
+	</tr>	
+</table> 
+
 <p text-align="justify">&emsp;&emsp;O guia de estilo define a comunicação verbal e visual da aplicação. Ele deve ser desenvolvido levando em consideração qual mensagem e características se quer passar aos usuários.</p>
 
 <img src="../assets/novo_guia/guia_Prancheta 1.png">
