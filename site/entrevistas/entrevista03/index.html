@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Entrevista 3 - Meraki</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/mono-blue.min.css">
+        <link href="../../stylesheets/common.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">Meraki</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li >
+                                <a href="../..">Inicial</a>
+                            </li>
+                            <li >
+                                <a href="../../planejamento/">Planejamento</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contexto de Uso <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../storyboard/">Storyboard</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#">Análise de Usuário</a>
+    <ul class="dropdown-menu">
+            
+<li >
+    <a href="../../personas/">Personas</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#">Análise do Uso</a>
+    <ul class="dropdown-menu">
+            
+<li >
+    <a href="../../avaliacao_heuristica/">Avaliação heurística</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#">Técnicas de Análise</a>
+    <ul class="dropdown-menu">
+            
+<li >
+    <a href="../entrevistas/">Entrevistas</a>
+</li>
+    </ul>
+  </li>
+                                    
+<li >
+    <a href="../../estilo_guia/">Guia de estilo</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Concepção/Avaliação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../novo_guia/">Guia de estilo</a>
+</li>
+                                    
+<li >
+    <a href="../../metas_usabilidade/">Metas de usabilidade</a>
+</li>
+                                    
+<li >
+    <a href="../../estilo_guia/">Guia de estilo</a>
+</li>
+                                    
+<li >
+    <a href="../../prototipo_papel/">Protótipo de Papel</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#entrevista-3">Entrevista 3</a></li>
+            <li><a href="#1-qual-e-o-seu-curso">1) Qual é o seu curso?</a></li>
+            <li><a href="#2-qual-e-a-sua-idade">2) Qual é a sua idade?</a></li>
+            <li><a href="#3-em-qual-semestre-esta">3)  Em qual semestre está?</a></li>
+            <li><a href="#4-por-que-voce-escolheu-um-curso-de-engenharia">4) Por que você escolheu um curso de Engenharia?</a></li>
+            <li><a href="#5-o-que-acha-de-iniciativas-extracurriculares-como-equipes-de-competicao-e-ejs">5) O que acha de iniciativas extracurriculares como equipes de competição e EJ's?</a></li>
+            <li><a href="#6-o-que-acha-de-iniciativas-de-alunos-para-desenvolverem-projetos-por-conta-propria-projetos-com-e-sem-fins-lucrativos">6) O que acha de iniciativas de alunos para desenvolverem projetos por conta própria? (Projetos com e sem fins lucrativos)</a></li>
+            <li><a href="#7-voce-tem-conhecimento-sobre-as-atividades-e-projetos-realizados-por-alunos-da-fga-projetos-com-e-sem-fins-lucrativos">7) Você tem conhecimento sobre as atividades e projetos realizados por alunos da FGA? (Projetos com e sem fins lucrativos)</a></li>
+            <li><a href="#a-ja-procurou-saber">a) Já procurou saber?</a></li>
+            <li><a href="#b-onde-procurou">b) Onde procurou?</a></li>
+            <li><a href="#c-gostaria-de-saber">c) Gostaria de saber?</a></li>
+            <li><a href="#d-por-que">d) Por quê?</a></li>
+            <li><a href="#8-voce-ja-quis-desenvolver-algum-projeto-de-iniciativa-propria-que-nao-e-para-alguma-disciplina-projetos-com-e-sem-fins-lucrativos">8) Você já quis desenvolver algum projeto de iniciativa própria (que não é para alguma disciplina)? (Projetos com e sem fins lucrativos)</a></li>
+            <li><a href="#a-desenvolveu">a) Desenvolveu?</a></li>
+            <li><a href="#b-nao-por-que">b) Não? Por quê?</a></li>
+            <li><a href="#9-voce-ja-quis-participar-de-algum-projeto-de-iniciativa-propria-que-nao-e-para-alguma-disciplina-projetos-com-e-sem-fins-lucrativos">9) Você já quis participar de algum projeto de iniciativa própria (que não é para alguma disciplina)? (Projetos com e sem fins lucrativos)</a></li>
+            <li><a href="#a-nao-por-que">a) Não? Por quê?</a></li>
+            <li><a href="#b-ja-participou">b) Já participou?</a></li>
+            <li><a href="#c-nao-por-que">c) Não? Por quê?</a></li>
+            <li><a href="#d-quais-foram-as-dificuldades-encontradas-o-que-te-motivou-a-participar-do-projeto">d) Quais foram as dificuldades encontradas? O que te motivou a participar do projeto?</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="entrevista-3">Entrevista 3</h1>
+<p>Entrevistador: Samuel.
+<br>
+Data de Realização: 10/10/2019 às 19:00.</p>
+<h4 id="1-qual-e-o-seu-curso">1) Qual é o seu curso?</h4>
+<p>Engenharia Eletrônica.</p>
+<h4 id="2-qual-e-a-sua-idade">2) Qual é a sua idade?</h4>
+<p>20 anos.</p>
+<h4 id="3-em-qual-semestre-esta">3)  Em qual semestre está?</h4>
+<p>Quinto semestre.</p>
+<h4 id="4-por-que-voce-escolheu-um-curso-de-engenharia">4) Por que você escolheu um curso de Engenharia?</h4>
+<p>Eu gostava muito de física e matemática no Ensino Médio e influência da família também.</p>
+<h4 id="5-o-que-acha-de-iniciativas-extracurriculares-como-equipes-de-competicao-e-ejs">5) O que acha de iniciativas extracurriculares como equipes de competição e EJ's?</h4>
+<p>Importantes para complementar o conhecimento prático dos alunos.</p>
+<h4 id="6-o-que-acha-de-iniciativas-de-alunos-para-desenvolverem-projetos-por-conta-propria-projetos-com-e-sem-fins-lucrativos">6) O que acha de iniciativas de alunos para desenvolverem projetos por conta própria? (Projetos com e sem fins lucrativos)</h4>
+<p>Geniais, porque os caras, além de aplicar conhecimento da área, precisam conhecer algumas áreas adjacentes também.</p>
+<h4 id="7-voce-tem-conhecimento-sobre-as-atividades-e-projetos-realizados-por-alunos-da-fga-projetos-com-e-sem-fins-lucrativos">7) Você tem conhecimento sobre as atividades e projetos realizados por alunos da FGA? (Projetos com e sem fins lucrativos)</h4>
+<p>Tenho não, só as EJ’s e equipes de competição.</p>
+<h4 id="a-ja-procurou-saber">a) Já procurou saber?</h4>
+<p>Também não.</p>
+<h4 id="b-onde-procurou">b) Onde procurou?</h4>
+<p>--</p>
+<h4 id="c-gostaria-de-saber">c) Gostaria de saber?</h4>
+<p>Seria bom saber. Saber com o que os colegas estão trabalhando.</p>
+<h4 id="d-por-que">d) Por quê?</h4>
+<p>--</p>
+<h4 id="8-voce-ja-quis-desenvolver-algum-projeto-de-iniciativa-propria-que-nao-e-para-alguma-disciplina-projetos-com-e-sem-fins-lucrativos">8) Você já quis desenvolver algum projeto de iniciativa própria (que não é para alguma disciplina)? (Projetos com e sem fins lucrativos)</h4>
+<p>Ainda não, só projeto de iniciação científica.</p>
+<h4 id="a-desenvolveu">a) Desenvolveu?</h4>
+<p>Não.</p>
+<h4 id="b-nao-por-que">b) Não? Por quê?</h4>
+<p>Porque acho que precisaria saber um pouco mais para poder administrar as coisas e também desenvolver.</p>
+<h4 id="9-voce-ja-quis-participar-de-algum-projeto-de-iniciativa-propria-que-nao-e-para-alguma-disciplina-projetos-com-e-sem-fins-lucrativos">9) Você já quis participar de algum projeto de iniciativa própria (que não é para alguma disciplina)? (Projetos com e sem fins lucrativos)</h4>
+<p>Quis também não.</p>
+<h4 id="a-nao-por-que">a) Não? Por quê?</h4>
+<p>Mesma razão da anterior.</p>
+<h4 id="b-ja-participou">b) Já participou?</h4>
+<p>--</p>
+<h4 id="c-nao-por-que">c) Não? Por quê?</h4>
+<p>--</p>
+<h4 id="d-quais-foram-as-dificuldades-encontradas-o-que-te-motivou-a-participar-do-projeto">d) Quais foram as dificuldades encontradas? O que te motivou a participar do projeto?</h4>
+<p>--</p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"search": 83, "help": 191, "next": 78, "previous": 80};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
