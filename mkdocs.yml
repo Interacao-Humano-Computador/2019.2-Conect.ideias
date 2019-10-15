@@ -11,7 +11,9 @@ nav:
         - Avaliação heurística: avaliacao_heuristica.md
     - Técnicas de Análise:
         - Entrevistas: entrevistas/entrevistas.md
+    - Guia de estilo: estilo_guia.md
   - Concepção/Avaliação:
+    - Guia de estilo: novo_guia.md
     - Metas de usabilidade: metas_usabilidade.md
     - Guia de estilo: estilo_guia.md
     - Protótipo de Papel: prototipo_papel.md
