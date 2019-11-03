@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>Personas - Meraki</title>
+        <title>Protótipo de Papel (Versão 2) - Meraki</title>
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -53,7 +53,7 @@
                             <li >
                                 <a href="../planejamento/">Planejamento</a>
                             </li>
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contexto de Uso <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -65,8 +65,8 @@
     <a href="#">Análise de Usuário</a>
     <ul class="dropdown-menu">
             
-<li class="active">
-    <a href="./">Personas</a>
+<li >
+    <a href="../personas/">Personas</a>
 </li>
     </ul>
   </li>
@@ -129,16 +129,6 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li >
-                                <a rel="next" href="../storyboard/">
-                                    <i class="fa fa-arrow-left"></i> Previous
-                                </a>
-                            </li>
-                            <li >
-                                <a rel="prev" href="../avaliacao_heuristica/">
-                                    Next <i class="fa fa-arrow-right"></i>
-                                </a>
-                            </li>
                     </ul>
                 </div>
             </div>
@@ -147,19 +137,69 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#personas">Personas</a></li>
-            <li><a href="#persona-01">Persona 01</a></li>
-            <li><a href="#persona-02">Persona 02</a></li>
+        <li class="main active"><a href="#prototipo-de-papel-versao-2">Protótipo de Papel (Versão 2)</a></li>
+            <li><a href="#objetivos">Objetivos</a></li>
+            <li><a href="#perguntas">Perguntas</a></li>
+            <li><a href="#respostas">Respostas</a></li>
+            <li><a href="#imagens-do-prototipo">Imagens do Protótipo</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="personas">Personas</h1>
+<h1 id="prototipo-de-papel-versao-2">Protótipo de Papel (Versão 2)</h1>
 <p><div class="line"></div></p>
-<h3 id="persona-01">Persona 01</h3>
-<p><img src="../assets/persona/Morgana.png"></p>
-<h3 id="persona-02">Persona 02</h3>
-<p><img src="../assets/persona/j'Zargo.png"></p></div>
+<h2 id="objetivos">Objetivos</h2>
+<p>A avaliação foi efetuada utilizando um protótipo de papel de duas partes cruciais do sistema (de acordo com as entrevistas e questionário). As funcionalidades testadas foram a busca de projetos e a página de um projeto.
+<br>
+As tarefas requisitadas ao usuário foram:
+<br></p>
+<ul>
+<li>Buscar um projeto específico.</li>
+<li>Descobrir informações do projeto.<ul>
+<li>Descrição.</li>
+<li>Pessoas que trabalham no projeto.</li>
+</ul>
+</li>
+<li>Solicitar participação no projeto.</li>
+</ul>
+<h2 id="perguntas">Perguntas</h2>
+<ol>
+<li>O usuário consegue atingir os objetivos com sucesso?</li>
+<li>Os padrões de interação utilizados são intuitivos?</li>
+<li>Os títulos dos botões são intuitivos?</li>
+</ol>
+<h2 id="respostas">Respostas</h2>
+<table class="versions">
+    <tr>
+        <th>Pergunta</th>
+        <th>Resposta</th>
+        <th>Solução Proposta</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Em parte. Após a avaliação, o usuário relatou não existir a possibilidade de explorar projetos, apenas buscar projetos específicos através da caixa de busca.</td>
+        <td>Adicionar uma forma de busca para os usuários que estão apenas explorando por projetos interessantes. Uma boa possibilidade seria uma busca por categorias e uma forma de ordenação. Segundo as entrevistas, questionário e avaliação, a busca é a parte essencial do projeto.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Em parte. Não ficou claro que se o usuário tocasse na lupa no canto da tela ou apertasse "Enter" (possibilidade não testável nesse nível de prototipação) seria redirecionado para uma página de resultados correspondentes aos termos buscados.</td>
+        <td>Na página de projeto, destacar a aba sendo ativa no momento.<br>Realizar um teste com um protótipo de média/alta fidelidade para assegurar se o erro é condizente ou não.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Não. Para o usuário, o fato de clicar em "Solicitar participação" já era suficiente para fazer parte de um projeto, diferente do esperado - que o "dono" do projeto deveria aceitar sua solicitação antes. Outro fator, esse já devido ao nível de fidelidade do protótipo, foi não conseguir diferenciar a aba de "Descrição" e "Participantes" e mesmo após resolver essa dúvida, o termo não descrevia bem o que a página mostrava.</td>
+        <td>Alterar o texto do botão "Participantes" nas páginas de projeto para algo mais descritivo.<br>Separar a barra de navegação da página de projeto como abas.</td>
+    </tr>
+</table>
+
+<p><br></p>
+<h2 id="imagens-do-prototipo">Imagens do Protótipo</h2>
+<p><img src="../assets/prototipo2/Protótipo2-1.png">
+<img src="../assets/prototipo2/Protótipo2-2.png">
+<img src="../assets/prototipo2/Protótipo2-3.png">
+<img src="../assets/prototipo2/Protótipo2-4.png">
+<img src="../assets/prototipo2/Protótipo2-5.png">
+<img src="../assets/prototipo2/Protótipo2-6.png"></p></div>
         </div>
 
         <footer class="col-md-12">
