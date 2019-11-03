@@ -17,6 +17,7 @@ nav:
     - Guia de estilo: novo_guia.md
     - Metas de usabilidade: metas_usabilidade.md
     - Protótipo de Papel: prototipo_papel.md
+    - Protótipo de Média Fidelidade: media_fidelidade.md
 theme:
   name: readable
   custom_dir: custom
