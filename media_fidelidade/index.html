@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>Personas - Meraki</title>
+        <title>Protótipo de Média Fidelidade - Meraki</title>
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -53,7 +53,7 @@
                             <li >
                                 <a href="../planejamento/">Planejamento</a>
                             </li>
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contexto de Uso <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -65,8 +65,8 @@
     <a href="#">Análise de Usuário</a>
     <ul class="dropdown-menu">
             
-<li class="active">
-    <a href="./">Personas</a>
+<li >
+    <a href="../personas/">Personas</a>
 </li>
     </ul>
   </li>
@@ -110,7 +110,7 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Concepção/Avaliação <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -126,8 +126,8 @@
     <a href="../prototipo_papel/">Protótipo de Papel</a>
 </li>
                                     
-<li >
-    <a href="../media_fidelidade/">Protótipo de Média Fidelidade</a>
+<li class="active">
+    <a href="./">Protótipo de Média Fidelidade</a>
 </li>
                                 </ul>
                             </li>
@@ -140,12 +140,12 @@
                             </a>
                         </li>
                             <li >
-                                <a rel="next" href="../storyboard/">
+                                <a rel="next" href="../prototipo_papel/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="../hta/">
+                            <li class="disabled">
+                                <a rel="prev" >
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -157,19 +157,59 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#personas">Personas</a></li>
-            <li><a href="#persona-01">Persona 01</a></li>
-            <li><a href="#persona-02">Persona 02</a></li>
+        <li class="main active"><a href="#prototipo-de-media-fidelidade-versao-1">Protótipo de Média Fidelidade (Versão 1)</a></li>
+            <li><a href="#objetivos">Objetivos</a></li>
+            <li><a href="#perguntas">Perguntas</a></li>
+            <li><a href="#respostas">Respostas</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="personas">Personas</h1>
+<h1 id="prototipo-de-media-fidelidade-versao-1">Protótipo de Média Fidelidade (Versão 1)</h1>
 <p><div class="line"></div></p>
-<h3 id="persona-01">Persona 01</h3>
-<p><img src="../assets/persona/Morgana.png"></p>
-<h3 id="persona-02">Persona 02</h3>
-<p><img src="../assets/persona/j'Zargo.png"></p></div>
+<h2 id="objetivos">Objetivos</h2>
+<p>A avaliação foi efetuada utilizando um protótipo de média fidelidade feito no Draw.io afim de corrigir os erros encotrados no Protótipo de Papel (Versão 2), e possivelmente encontrar novos erros para corrigi-los. As funcionalidades testadas foram a busca de projetos e a página de um projeto.
+<br>
+As tarefas requisitadas ao usuário foram:
+<br></p>
+<ul>
+<li>Buscar um projeto específico.</li>
+<li>Descobrir informações do projeto.</li>
+<li>Descrição.</li>
+<li>Pessoas que trabalham no projeto.</li>
+<li>Solicitar participação no projeto.</li>
+</ul>
+<h2 id="perguntas">Perguntas</h2>
+<ol>
+<li>O usuário consegue atingir os objetivos com sucesso?</li>
+<li>Os padrões de interação utilizados são intuitivos?</li>
+<li>Os títulos dos botões são intuitivos?</li>
+</ol>
+<h2 id="respostas">Respostas</h2>
+<table class="versions">
+ <tr>
+  <th>Pergunta</th>
+  <th>Resposta</th>
+        <th>Solução Proposta</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>Na maior parte sim. Ele agora consegue visualizar os participantes do projeto de uma forma mais intuitiva. O usuário questionou no caso de não encontrar um projeto, se não há projetos semelhantes(pelo nome ou tipo).</td>
+        <td>Exibir projetos relacionados à pesquisa do usuário, independentemente se o que ele procurou foi encontrado com sucesso.</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>Na maior parte sim. O usuário conseguiu realizar a busca apertando na lupa, mas sentiu falta de um botão de retorno para a página anterior. </td>
+        <td>Criar botões de retorno em todas as abas da aplicação.</td>
+ </tr>
+ <tr>
+  <td>3</td>
+  <td>Sim. O usuário conseguiu compreender cada aspecto da página do projeto. Os nomes "Detalhes", "Time" e "Fórum" foram auto-explicativos. O usuário sugeriu uma mudança no nome do botão "Carregar Mais" para algo mais intuitivo.</td>
+        <td>Alterar o nome do botão "Carregar Mais" para algo como "Saber Mais", "Ver Mais", entre outros.</td>
+ </tr>
+</table>
+
+<p><br></p></div>
         </div>
 
         <footer class="col-md-12">
