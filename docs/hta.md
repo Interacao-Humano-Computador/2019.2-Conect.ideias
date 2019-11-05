@@ -18,13 +18,28 @@
 	<tr>
 		<td>1.0</td>
 		<td>Versão inicial: Criação de projeto, busca de projeto e registro</td>
-		<td>08/10/2019</td>
-	</tr>	
+		<td>05/11/2019</td>
+	</tr>
 	<tr>
 		<td>1.1</td>
+		<td>Adição de exclusão de conta e correção de versionamento</td>
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição de referências</td>
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Correção de erros nos diagramas</td>
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.4</td>
 		<td>Adição da tabela de Criação de projeto</td>
-		<td>08/10/2019</td>
-	</tr>	
+		<td>05/11/2019</td>
+	</tr>
 </table>
 
 ## Registro
@@ -37,6 +52,16 @@
 
 ## Criar um novo projeto
 <img src="../assets/aht/CriarProjeto.png">
+<br>
 
+## Exclusão de conta
+<img src="../assets/aht/ExcluirConta.png">
+<br>
+
+<<<<<<< HEAD
 <img src="../assets/aht/CriarProjetoTable.png">
 
+=======
+## Referências <div class="line"></div>
+<p text-align="justify">&emsp;&emsp;CAIADO, Márcio Sequeira. Análise de Tarefas. Análise Hierárquica de Tarefas. DOCPLAYER, 2019. Disponível em: <a href=https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html>https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html</a>. Acesso em: 5 nov. 2019.</p>
+>>>>>>> f3bda0f3ef18ed5460aafa55f4f3f051f107abef
