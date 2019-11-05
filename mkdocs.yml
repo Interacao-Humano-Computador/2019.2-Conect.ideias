@@ -7,6 +7,8 @@ nav:
     - Storyboard: storyboard.md
     - Análise de Usuário:
         - Personas: personas.md
+    - Análise de Tarefas:
+        - HTA: hta.md
     - Análise do Uso:
         - Avaliação heurística: avaliacao_heuristica.md
     - Técnicas de Análise:
