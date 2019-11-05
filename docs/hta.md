@@ -30,6 +30,11 @@
 		<td>Adição de referências</td>
 		<td>05/11/2019</td>
 	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Correção de erros nos diagramas</td>
+		<td>05/11/2019</td>
+	</tr>
 </table>
 
 ## Registro
