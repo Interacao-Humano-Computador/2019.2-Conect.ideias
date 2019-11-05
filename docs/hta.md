@@ -18,8 +18,13 @@
 	<tr>
 		<td>1.0</td>
 		<td>Versão inicial: Criação de projeto, busca de projeto e registro</td>
-		<td>08/10/2019</td>
-	</tr>	
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Adição de exclusão de conta e correção de versionamento</td>
+		<td>05/11/2019</td>
+	</tr>
 </table>
 
 ## Registro
@@ -33,3 +38,5 @@
 ## Criar um novo projeto
 <img src="../assets/aht/CriarProjeto.png">
 
+## Exclusão de conta
+<img src="../assets/aht/ExcluirConta.png">
