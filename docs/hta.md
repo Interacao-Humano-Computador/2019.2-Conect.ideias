@@ -37,6 +37,11 @@
 	</tr>
 	<tr>
 		<td>1.4</td>
+		<td>Tabela de Encontrar Projeto Específico</td>
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.5</td>
 		<td>Adição da tabela de Criação de projeto</td>
 		<td>05/11/2019</td>
 	</tr>
@@ -50,18 +55,151 @@
 <img src="../assets/aht/AcharProjeto.png">
 <br>
 
+<table class="tarefa">
+	<tr>
+		<th class="tarefa_header">Operações</th>
+		<th>Problemas e recomendações</th>
+	</tr>
+	<tr>
+		<td>0. Encontrar projeto específico 1>2</td>
+		<td>Input: Especificações do projeto desejado, como autor ou nome.
+		Feedback: Acesso ao projeto desejado.
+		Plano: Navegar pelos projetos ate chegar no desejado.
+		Recomendação: Encontrar o projeto desejado o mais eficientemente possivel.</td>
+	</tr>	
+	<tr>
+		<td>1. Entrar no site do Meraki</td>
+		<td>Input: URL do site.</td>
+	</tr>	
+	<tr>
+		<td>2. Ir a aba Achar Projeto</td>
+		<td>Plano: Especificar projeto desejado.</td>
+	</tr>	
+	<tr>
+		<td>3. Encontrar projeto 1/2</td>
+		<td>Input: Especificações do projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.1. Através de projetos recentes</td>
+		<td>Input: Atividade recente no site.
+		Plano: Encontrar um projeto que foi visualizado recentemente.</td>
+	</tr>	
+	<tr>
+		<td>3.2. Através de busca 1>2</td>
+		<td>Plano: Especificar projeto desejado.
+		Recomendação: Especificar as caracteristicas mais importantes somente, para ganhar tempo.</td>
+	</tr>	
+	<tr>
+		<td>3.2.1. Digitar palavras chave</td>
+		<td>Input: Palavras chave do projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.2.2. Confirmar busca 1/2</td>
+		<td>Plano: Obter projetos de acordo com as especicacoes.</td>
+	</tr>	
+	<tr>
+		<td>3.2.2.1. Apertar botao Buscar</td>
+		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
+	</tr>	
+	<tr>
+		<td>3.2.2.2. Apertar botao Enter</td>
+		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
+	</tr>	
+	<tr>
+		<td>4. Clicar sibre o card do projeto</td>
+		<td>Plano: Encontrar o card procurado.</td>
+	</tr>	
+</table>
+
 ## Criar um novo projeto
 <img src="../assets/aht/CriarProjeto.png">
-<br>
+
+<table class="tarefa">
+	<tr>
+		<th class="tarefa_header">Operações</th>
+		<th>Problemas e recomendações</th>
+	</tr>
+	<tr>
+		<td>0. Criar um novo projeto 1>2</td>
+		<td>Input: nome do projeto, descrição, próximos passos, palavras-chave e tipo de ajuda.
+		Feedback: Tela de criação de novo projeto aparece.
+		<br>
+		Plano: Informar dados e criar projeto com os dados enviados.
+		<br>
+		Problema: Ao criar projeto, não possui feedback do processo.
+		<br>
+		Recomendação: Redirecionar o usuário à página de Meus projetos.
+</td>
+	</tr>	
+	<tr>
+		<td>1. Entrar no site Meraki</td>
+		<td>Plano: Informar credenciais e entrar na respectiva conta.</td>
+	</tr>	
+	<tr>
+		<td>2. Ir à página de criação de projeto 1/2</td>
+		<td>Plano: Navegar até a página de criação de projeto.</td>
+	</tr>	
+	<tr>
+		<td>2.1 Através da aba Meus projetos</td>
+		<td>Plano: Acessar a aba de Meus projetos.</td>
+	</tr>	
+	<tr>
+		<td>2.2 Através da aba Criar Projeto</td>
+		<td>Plano: Acessar diretamente a aba Criar projeto.</td>
+	</tr>	
+	<tr>
+		<td>3. Preencher informações do projeto 1>2</td>
+		<td>Plano: Informar as informações do novo projeto</td>
+	</tr>	
+	<tr>
+		<td>3.1 Digitar nome do projeto</td>
+		<td>Plano: Informar nome do projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.2 Digitar descrição do projeto</td>
+		<td>Plano: Informar a descrição do novo projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.3 Digitar próximos passos</td>
+		<td>Plano: Informar os próximos passos do novo projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.4 Digitar palavras-chave</td>
+		<td>Plano: Informar as palavras-chave do novo projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.5 Escolher tipo de ajuda 1/2</td>
+		<td>Plano: Informar o tipo de ajuda desejada.</td>
+	</tr>
+	<tr>
+		<td>3.5.1 Escolher todos</td>
+		<td>Plano: Definir tipo de ajuda do projeto como “todos”.</td>
+	</tr>
+	<tr>
+		<td>3.5.2 Escolher Criação</td>
+		<td>Plano: Definir tipo de ajuda do projeto como “Criação”.
+		<br>
+				Recomendação: Informar ao usuário o significado de “Criação”.
+		<br>
+</td>
+	</tr>
+	<tr>
+		<td>3.5.3 Escolher Consultoria</td>
+		<td>Plano: Definir tipo de ajuda do projeto como “Consultoria”.
+		<br>
+ 				Recomendação: Informar ao usuário o significado de “Consultoria”.
+		<br>
+</td>
+	</tr>
+	<tr>
+		<td>4. Clicar em criar</td>
+		<td>Plano: Efetivar criação do novo projeto</td>
+	</tr>
+</table>
 
 ## Exclusão de conta
 <img src="../assets/aht/ExcluirConta.png">
 <br>
 
-<<<<<<< HEAD
-<img src="../assets/aht/CriarProjetoTable.png">
-
-=======
 ## Referências <div class="line"></div>
 <p text-align="justify">&emsp;&emsp;CAIADO, Márcio Sequeira. Análise de Tarefas. Análise Hierárquica de Tarefas. DOCPLAYER, 2019. Disponível em: <a href=https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html>https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html</a>. Acesso em: 5 nov. 2019.</p>
->>>>>>> f3bda0f3ef18ed5460aafa55f4f3f051f107abef
