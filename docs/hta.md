@@ -40,6 +40,11 @@
 		<td>Tabela de Encontrar Projeto Específico</td>
 		<td>05/11/2019</td>
 	</tr>	
+	<tr>
+		<td>1.5</td>
+		<td>Tabela de Remoção de Conta.</td>
+		<td>05/11/2019</td>
+	</tr>
 </table>
 
 ## Registro
@@ -112,6 +117,41 @@
 ## Exclusão de conta
 <img src="../assets/aht/ExcluirConta.png">
 <br>
+
+<table class="tarefa">
+	<tr>
+		<th class="tarefa_header">Operações</th>
+		<th>Problemas e recomendações</th>
+	</tr>
+	<tr>
+		<td>0. Excluir conta 1>2</td>
+		<td>Feedback: Não ter uma conta no site.
+		Plano: Retirar seus dados do Meraki.
+		Recomendação: Previnir remoções acedentais de conta.</td>
+	</tr>	
+	<tr>
+		<td>1. Entrar no site do Meraki</td>
+		<td>Input: URL do site.</td>
+	</tr>	
+	<tr>
+		<td>2. Clicar sobre o usuário</td>
+		<td>Problema: Não encontrar o botão de usuário.</td>
+	</tr>	
+	<tr>
+		<td>3. Clicar em minha conta</td>
+		<td>Plano: Acessar a conta que será removida.</td>
+	</tr>	
+	<tr>
+		<td>3. Clicar em excluir conta</td>
+		<td>Problema: Chegar nessa página sem intenção.
+		Recomendação: Não tornar fácil para o usuário confirmar a exclusão de uma conta.</td>
+	</tr>	
+	<tr>
+		<td>4. Clicar em sim</td>
+		<td>Plano: Apagar todos os seus dados permanentemente.
+		Feedback: A inexistência de sua conta.</td>
+	</tr>
+</table>
 
 ## Referências <div class="line"></div>
 <p text-align="justify">&emsp;&emsp;CAIADO, Márcio Sequeira. Análise de Tarefas. Análise Hierárquica de Tarefas. DOCPLAYER, 2019. Disponível em: <a href=https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html>https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html</a>. Acesso em: 5 nov. 2019.</p>
