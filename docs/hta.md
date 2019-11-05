@@ -7,6 +7,11 @@
 <br>
 &emsp;&emsp;Será utilizada a representação AHT encontrada em Barbosa e Silva, 2010.</p>
 
+## Participantes
+- Eduardo Lima
+- Luís Henrique
+- Samuel Pereira
+
 ## Versões
 
 <table class="versions">
@@ -43,6 +48,7 @@
 	<tr>
 		<td>1.5</td>
 		<td>Tabela de Remoção de Conta.</td>
+		<td>05/11/2019</td>
 	</tr>
 	<tr>
 		<td>1.6</td>
@@ -66,9 +72,9 @@
 	</tr>
 	<tr>
 		<td>0. Encontrar projeto específico 1>2</td>
-		<td>Input: Especificações do projeto desejado, como autor ou nome.
-		Feedback: Acesso ao projeto desejado.
-		Plano: Navegar pelos projetos ate chegar no desejado.
+		<td>Input: Especificações do projeto desejado, como autor ou nome.<br>
+		Feedback: Acesso ao projeto desejado.<br>
+		Plano: Navegar pelos projetos ate chegar no desejado.<br>
 		Recomendação: Encontrar o projeto desejado o mais eficientemente possivel.</td>
 	</tr>	
 	<tr>
@@ -85,12 +91,12 @@
 	</tr>	
 	<tr>
 		<td>3.1. Através de projetos recentes</td>
-		<td>Input: Atividade recente no site.
+		<td>Input: Atividade recente no site.<br>
 		Plano: Encontrar um projeto que foi visualizado recentemente.</td>
 	</tr>	
 	<tr>
 		<td>3.2. Através de busca 1>2</td>
-		<td>Plano: Especificar projeto desejado.
+		<td>Plano: Especificar projeto desejado.<br>
 		Recomendação: Especificar as caracteristicas mais importantes somente, para ganhar tempo.</td>
 	</tr>	
 	<tr>
@@ -212,8 +218,8 @@
 	</tr>
 	<tr>
 		<td>0. Excluir conta 1>2</td>
-		<td>Feedback: Não ter uma conta no site.
-		Plano: Retirar seus dados do Meraki.
+		<td>Feedback: Não ter uma conta no site.<br>
+		Plano: Retirar seus dados do Meraki.<br>
 		Recomendação: Previnir remoções acedentais de conta.</td>
 	</tr>	
 	<tr>
@@ -230,12 +236,12 @@
 	</tr>	
 	<tr>
 		<td>3. Clicar em excluir conta</td>
-		<td>Problema: Chegar nessa página sem intenção.
+		<td>Problema: Chegar nessa página sem intenção.<br>
 		Recomendação: Não tornar fácil para o usuário confirmar a exclusão de uma conta.</td>
 	</tr>	
 	<tr>
 		<td>4. Clicar em sim</td>
-		<td>Plano: Apagar todos os seus dados permanentemente.
+		<td>Plano: Apagar todos os seus dados permanentemente.<br>
 		Feedback: A inexistência de sua conta.</td>
 	</tr>
 </table>
