@@ -55,6 +55,11 @@
 		<td>Adição da tabela de Criação de projeto</td>
 		<td>05/11/2019</td>
 	</tr>
+	<tr>
+		<td>1.7</td>
+		<td>Adição da tabela de Registro</td>
+		<td>05/11/2019</td>
+	</tr>
 </table>
 
 ## Registro
@@ -81,37 +86,39 @@
 	</tr>	
 	<tr>
 		<td>2. Clicar no link para cadastro</td>
-		<td>Plano: Especificar projeto desejado.</td>
+		<td>Plano: Acessar página de cadastro.</td>
 	</tr>	
 	<tr>
-		<td>3. Encontrar projeto 1/2</td>
-		<td>Input: Especificações do projeto.</td>
+		<td>3. Inserir informações de cadastro 1/2</td>
+		<td>Plano: Informar as informações de cadastro</td>
 	</tr>	
 	<tr>
-		<td>3.1. Através de projetos recentes</td>
-		<td>Input: Atividade recente no site.
-		Plano: Encontrar um projeto que foi visualizado recentemente.</td>
+		<td>3.1. Inserir nome</td>
+		<td>Plano: Informar o nome da nova conta.</td>
 	</tr>	
 	<tr>
-		<td>3.2. Através de busca 1>2</td>
-		<td>Plano: Especificar projeto desejado.
-		Recomendação: Especificar as caracteristicas mais importantes somente, para ganhar tempo.</td>
+		<td>3.2. Inserir E-mail </td>
+		<td>Plano: Informar o E-mail da nova conta.</td>
 	</tr>	
 	<tr>
-		<td>3.2.1. Digitar palavras chave</td>
-		<td>Input: Palavras chave do projeto.</td>
+		<td>3.3. Inserir senha</td>
+		<td>Plano: Definir senha da nova conta.</td>
 	</tr>	
 	<tr>
-		<td>3.2.2. Confirmar busca 1/2</td>
-		<td>Plano: Obter projetos de acordo com as especicacoes.</td>
+		<td>4. Confirmar cadastro 1/2</td>
+		<td>Plano: Efetuar a criação da nova conta.</td>
 	</tr>	
 	<tr>
-		<td>3.2.2.1. Apertar botao Buscar</td>
-		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
+		<td>4.1. Apertar em botão de criar conta</td>
+		<td>Plano: Criar nova conta com as informações informadas</td>
 	</tr>	
 	<tr>
-		<td>3.2.2.2. Apertar botao Enter</td>
-		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
+		<td>4.2. Apertar Enter</td>
+		<td>Feedback: Acessar a página de editar perfil.
+		<br>
+		Plano: Finalizar cadastro.
+		<br>
+		</td>
 	</tr>	
 </table>
 
