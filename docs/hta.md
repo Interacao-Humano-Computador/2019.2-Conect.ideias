@@ -20,6 +20,11 @@
 		<td>Versão inicial: Criação de projeto, busca de projeto e registro</td>
 		<td>08/10/2019</td>
 	</tr>	
+	<tr>
+		<td>1.1</td>
+		<td>Adição da tabela de Criação de projeto</td>
+		<td>08/10/2019</td>
+	</tr>	
 </table>
 
 ## Registro
@@ -32,4 +37,6 @@
 
 ## Criar um novo projeto
 <img src="../assets/aht/CriarProjeto.png">
+
+<img src="../assets/aht/CriarProjetoTable.png">
 
