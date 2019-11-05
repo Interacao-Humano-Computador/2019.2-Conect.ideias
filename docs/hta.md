@@ -22,6 +22,21 @@
 	</tr>
 	<tr>
 		<td>1.1</td>
+		<td>Adição de exclusão de conta e correção de versionamento</td>
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição de referências</td>
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Correção de erros nos diagramas</td>
+		<td>05/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.4</td>
 		<td>Tabela de Encontrar Projeto Específico</td>
 		<td>05/11/2019</td>
 	</tr>	
@@ -75,15 +90,15 @@
 	</tr>	
 	<tr>
 		<td>3.2.2. Confirmar busca 1/2</td>
-		<td>Plano: Obter projetos de acordo com as especificações.</td>
+		<td>Plano: Obter projetos de acordo com as especicacoes.</td>
 	</tr>	
 	<tr>
 		<td>3.2.2.1. Apertar botao Buscar</td>
-		<td>Feedback: Vizualizar todos os cards que condizem com as especificações.</td>
+		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
 	</tr>	
 	<tr>
 		<td>3.2.2.2. Apertar botao Enter</td>
-		<td>Feedback: Vizualizar todos os cards que condizem com as especificações.</td>
+		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
 	</tr>	
 	<tr>
 		<td>4. Clicar sibre o card do projeto</td>
@@ -94,3 +109,9 @@
 ## Criar um novo projeto
 <img src="../assets/aht/CriarProjeto.png">
 
+## Exclusão de conta
+<img src="../assets/aht/ExcluirConta.png">
+<br>
+
+## Referências <div class="line"></div>
+<p text-align="justify">&emsp;&emsp;CAIADO, Márcio Sequeira. Análise de Tarefas. Análise Hierárquica de Tarefas. DOCPLAYER, 2019. Disponível em: <a href=https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html>https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html</a>. Acesso em: 5 nov. 2019.</p>
