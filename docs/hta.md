@@ -51,6 +51,61 @@
 <img src="../assets/aht/Registro.png">
 <br>
 
+<table class="tarefa">
+	<tr>
+		<th class="tarefa_header">Operações</th>
+		<th>Problemas e recomendações</th>
+	</tr>
+	<tr>
+		<td>0. Registrar no Meraki 1>2</td>
+		<td>Input: Nome, E-mail e Senha.
+		Feedback: Acesso à nova conta e página de Editar perfil.
+		<br>
+		Plano: Criar nova conta com os dados informados.
+		<br>
+		Problema: Falta de verificação das informações e confirmação da criação.</td>
+	</tr>	
+	<tr>
+		<td>1. Entrar no site Meraki</td>
+		<td>Plano: Acessar a página inicial do site.</td>
+	</tr>	
+	<tr>
+		<td>2. Clicar no link para cadastro</td>
+		<td>Plano: Especificar projeto desejado.</td>
+	</tr>	
+	<tr>
+		<td>3. Encontrar projeto 1/2</td>
+		<td>Input: Especificações do projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.1. Através de projetos recentes</td>
+		<td>Input: Atividade recente no site.
+		Plano: Encontrar um projeto que foi visualizado recentemente.</td>
+	</tr>	
+	<tr>
+		<td>3.2. Através de busca 1>2</td>
+		<td>Plano: Especificar projeto desejado.
+		Recomendação: Especificar as caracteristicas mais importantes somente, para ganhar tempo.</td>
+	</tr>	
+	<tr>
+		<td>3.2.1. Digitar palavras chave</td>
+		<td>Input: Palavras chave do projeto.</td>
+	</tr>	
+	<tr>
+		<td>3.2.2. Confirmar busca 1/2</td>
+		<td>Plano: Obter projetos de acordo com as especicacoes.</td>
+	</tr>	
+	<tr>
+		<td>3.2.2.1. Apertar botao Buscar</td>
+		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
+	</tr>	
+	<tr>
+		<td>3.2.2.2. Apertar botao Enter</td>
+		<td>Feedback: Vizualizar todos os cards que condizem com as especificacoes.</td>
+	</tr>	
+</table>
+
+
 ## Encontrar projeto específico
 <img src="../assets/aht/AcharProjeto.png">
 <br>
