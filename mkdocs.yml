@@ -2,7 +2,9 @@ site_name: Meraki
 
 nav:
   - Inicial: index.md
-  - Planejamento: planejamento.md
+  - Planejamento:
+    - Planejamento Inicial: planejamento.md
+    - Planejamento de Melhorias: melhorias.md
   - Contexto de Uso:
     - Storyboard: storyboard.md
     - Análise de Usuário:
