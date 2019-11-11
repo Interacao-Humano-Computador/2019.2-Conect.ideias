@@ -25,7 +25,7 @@ Também possui o objetivo de entender como o usuário se comporta ao entrar em c
 ## Escopo da Avaliação
 
 A avaliação será realizada por meio de uma observação do uso do protótipo, buscando a identificação dos possíveis erros de design.<br>
-Os passos que deverão ser realizados tentam refletir o caminho seguido por um usuário na real apliação.
+Os passos que deverão ser realizados tentam refletir o caminho seguido por um usuário na real aplicação.
 
 
 O que será avaliado com o protótipo:
