@@ -48,4 +48,4 @@ Para a avaliação do protótipo, as seguintes perguntas deverão ser respondida
 
 ## Respostas
 
-As respostas à essas perguntas, estarão documentadas em [Protótio de Papel](./prototipo_papel.md). Nesse documento estará disponível as fotos do protótipo, assim como os vídeos dos usuários utilizando o protótipo.
+As respostas à essas perguntas, estarão documentadas em [Protótipo de Papel](./prototipo_papel.md). Nesse documento estará disponível as fotos do protótipo, assim como os vídeos dos usuários utilizando o protótipo.

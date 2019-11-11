@@ -43,6 +43,6 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 
 ## Protótipos
 [Protótio de Papel (Versão 1)](./foto_prototipo.md)<br>
-[Protótio de Papel (Versão 2) - Versão utilizada para avaliação](./foto_prototipo2.md)
+[Protótipo de Papel (Versão 2) - Versão utilizada para avaliação](./foto_prototipo2.md)
 <br><br>
 
