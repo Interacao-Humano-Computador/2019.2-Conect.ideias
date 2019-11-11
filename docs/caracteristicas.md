@@ -18,6 +18,11 @@ A característica da plataforma é caracterizado como um documento que descreve 
 		<td>Versão inicial: Objetivo da Plataforma</td>
 		<td>10/11/2019</td>
 	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Adição de Recursos e Restrições</td>
+		<td>11/11/2019</td>
+	</tr>
 	
 </table>
 
@@ -27,3 +32,23 @@ O site trata-se de uma aplicação voltada para alunos da Universidade de Brasí
 
 ## Recursos
 
+- O Conect.ideias realiza cadastros de usuário através do email.
+- Através do Conect.ideias posso:
+ 	- Criar um projeto.
+	- Achar um projeto novo.
+	- Visualizar os projetos que criei.
+	- Visualizar minhas notificações.
+- A plataforma possibilita o contato entre membros.
+- É possível solicitar participação em determinado projeto através da aplicação.
+
+## Restrições
+
+- O Conect.ideias não realiza cadastro integrado ao Facebook e Google.
+- Não é possível enviar mensagens através da plataforma, nem possui forúm de conversa.
+- Não é possível explorar projetos por áreas de interesse. 
+- Não é possível recuperar senha, caso o usuário esqueça.
+- O site não é responsivo para dispositivos móveis.
+
+## Referências
+
+CONECT.IDEIAS. Conect.ideias, 2017. Disponível em: [http://conectideias.rf.gd/](http://conectideias.rf.gd/). Acesso em 11 de novembro de 2019.
