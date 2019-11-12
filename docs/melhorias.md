@@ -25,11 +25,6 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
         <td>Sofia Patrocínio</td>
 	</tr>
 	<tr>
-		<td>Processo de Design</td>
-		<td>Não entregue</td>
-        <td>Samuel Pereira</td>
-	</tr>
-	<tr>
 		<td>Metas de Usabilidade</td>
 		<td>Feito e entregue</td>
         <td>Ok</td>
@@ -47,7 +42,7 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 	<tr>
 		<td>Análise de Tarefas</td>
 		<td>Feito e entregue, porém precisa de melhorias, e de novas técnicas como a GOMS (Goals, Operators, Methods, Selection rules).</td>
-        <td>Eduardo Lima</td>
+        <td>Eduardo Lima, Samuel Pereira</td>
 	</tr>
 	<tr>
 		<td>Características da Plataforma</td>
