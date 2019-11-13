@@ -39,6 +39,11 @@
 		<td>Adição de Encontrar projeto específico</td>
 		<td>12/11/2019</td>
 	</tr>
+	<tr>
+		<td>1.4</td>
+		<td>Adição de Exclusão de conta e padronização</td>
+		<td>13/11/2019</td>
+	</tr>
 </table>
 
 ## Registro
@@ -46,14 +51,14 @@
 <p>
 <b>GOAL 0</b>: Criar uma conta
 <br>&emsp;<b>GOAL 1</b>: Acessar a página de cadastro
-<br>&emsp;&emsp;<b>OP.1.1</b>: Deslocar o cursor do mouse para o link "Clique aqui e cadastre-se."
-<br>&emsp;&emsp;<b>OP.1.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 1.1</b>: Deslocar o cursor do mouse para o link "Clique aqui e cadastre-se."
+<br>&emsp;&emsp;<b>OP 1.2</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;
 <br>&emsp;<b>GOAL 2</b>: Preencher as informações cadastrais
-<br>&emsp;&emsp;<b>OP.2.1</b>: Preencher o campo Nome
-<br>&emsp;&emsp;<b>OP.2.2</b>: Preencher o campo E-mail
-<br>&emsp;&emsp;<b>OP.2.3</b>: Preencher o campo Senha
-<br>&emsp;&emsp;<b>OP.2.4</b>: Clicar no botão "Criar conta"
+<br>&emsp;&emsp;<b>OP 2.1</b>: Preencher o campo Nome
+<br>&emsp;&emsp;<b>OP 2.2</b>: Preencher o campo E-mail
+<br>&emsp;&emsp;<b>OP 2.3</b>: Preencher o campo Senha
+<br>&emsp;&emsp;<b>OP 2.4</b>: Clicar no botão "Criar conta"
 </p>
 
 
@@ -63,14 +68,14 @@
 <p>
 <b>GOAL 0</b>: Definir uma foto de perfil
 <br>&emsp;<b>GOAL 1</b>: Entrar no perfil de usuário
-<br>&emsp;&emsp;<b>OP.1.1</b>: Deslocar o cursor do mouse para o menu de usuário no canto superior direto
-<br>&emsp;&emsp;<b>OP.1.2</b>: Clicar com o botão esquerdo do mouse
-<br>&emsp;&emsp;<b>OP.1.3</b>: Deslocar o cursor do mouse para opção "Meu Perfil"
-<br>&emsp;&emsp;<b>OP.1.4</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 1.1</b>: Deslocar o cursor do mouse para o menu de usuário no canto superior direto
+<br>&emsp;&emsp;<b>OP 1.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 1.3</b>: Deslocar o cursor do mouse para opção "Meu Perfil"
+<br>&emsp;&emsp;<b>OP 1.4</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;
 <br>&emsp;<b>GOAL 2</b>: Entrar na página de edição de perfil
-<br>&emsp;&emsp;<b>OP.2.1</b>: Deslocar o cursor do mouse para o botão Editar Perfil
-<br>&emsp;&emsp;<b>OP.2.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 2.1</b>: Deslocar o cursor do mouse para o botão Editar Perfil
+<br>&emsp;&emsp;<b>OP 2.2</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;
 <br>&emsp;<b>GOAL 3</b>: Enviar imagem
 <br>&emsp;&emsp;<b>GOAL 3.1</b>: Escolher arquivo
@@ -102,21 +107,21 @@
 <p>
 <b>GOAL 0</b>: Criar um projeto
 <br>&emsp;<b>GOAL 1</b>: Acessar a página de criação de projeto
-<br>&emsp;&emsp;<b>OP.1.1</b>: Deslocar o cursor do mouse para o botão "Criar projeto."
-<br>&emsp;&emsp;<b>OP.1.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 1.1</b>: Deslocar o cursor do mouse para o botão "Criar projeto."
+<br>&emsp;&emsp;<b>OP 1.2</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;
 <br>&emsp;<b>GOAL 2</b>: Preencher as informações do novo projeto
-<br>&emsp;&emsp;<b>OP.2.1</b>: Selecionar o campo "Nome do projeto"
-<br>&emsp;&emsp;<b>OP.2.2</b>: Preencher o nome do projeto
-<br>&emsp;&emsp;<b>OP.2.3</b>: Selecionar o campo "Descrição"
-<br>&emsp;&emsp;<b>OP.2.4</b>: Preencher a descrição do projeto
-<br>&emsp;&emsp;<b>OP.2.5</b>: Selecionar o campo "Próximos passos"
-<br>&emsp;&emsp;<b>OP.2.6</b>: Preencher os próximos passos do projeto
-<br>&emsp;&emsp;<b>OP.2.7</b>: Selecionar o campo "Palavras-chave"
-<br>&emsp;&emsp;<b>OP.2.8</b>: Preencher as palavras-chave do projeto
-<br>&emsp;&emsp;<b>OP.2.9</b>: Selecionar o campo "Palavras-chave"
-<br>&emsp;&emsp;<b>OP.2.10</b>: Escolher o tipo de ajuda dentre as opções disponíveis
-<br>&emsp;&emsp;<b>OP.2.11</b>: Clicar no botão "Criar"
+<br>&emsp;&emsp;<b>OP 2.1</b>: Selecionar o campo "Nome do projeto"
+<br>&emsp;&emsp;<b>OP 2.2</b>: Preencher o nome do projeto
+<br>&emsp;&emsp;<b>OP 2.3</b>: Selecionar o campo "Descrição"
+<br>&emsp;&emsp;<b>OP 2.4</b>: Preencher a descrição do projeto
+<br>&emsp;&emsp;<b>OP 2.5</b>: Selecionar o campo "Próximos passos"
+<br>&emsp;&emsp;<b>OP 2.6</b>: Preencher os próximos passos do projeto
+<br>&emsp;&emsp;<b>OP 2.7</b>: Selecionar o campo "Palavras-chave"
+<br>&emsp;&emsp;<b>OP 2.8</b>: Preencher as palavras-chave do projeto
+<br>&emsp;&emsp;<b>OP 2.9</b>: Selecionar o campo "Palavras-chave"
+<br>&emsp;&emsp;<b>OP 2.10</b>: Escolher o tipo de ajuda dentre as opções disponíveis
+<br>&emsp;&emsp;<b>OP 2.11</b>: Clicar no botão "Criar"
 </p>
 
 ## Encontrar projeto específico
@@ -152,6 +157,22 @@
 <br>&emsp;&emsp;(SEL. RULE</b>: preferência do usuário)
 <br>&emsp;&emsp;&emsp;<b>OP 2.C.1</b>: Deslocar o cursor do mouse para o hipertexto "SAIBA MAIS"
 <br>&emsp;&emsp;&emsp;<b>OP 2.C.2</b>: Clicar com o botão esquerdo
+</p>
+
+## Exclusão de conta
+<p>
+<b>GOAL 0</b>: Excluir conta
+<br>&emsp;<b>GOAL 1</b>: Entrar na página de edição de conta
+<br>&emsp;&emsp;<b>OP 1.1</b>: Deslocar o cursor do mouse para o menu de usuário no canto superior direto
+<br>&emsp;&emsp;<b>OP 1.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 1.3</b>: Deslocar o cursor do mouse para opção "Minha conta"
+<br>&emsp;&emsp;<b>OP 1.4</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;
+<br>&emsp;<b>GOAL 2</b>: Realizar exclusão de conta
+<br>&emsp;&emsp;<b>OP 2.1</b>: Deslocar o cursor do mouse para o hipertexto "Excluir conta"
+<br>&emsp;&emsp;<b>OP 2.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 2.3</b>: Deslocar o cursor do mouse para a opção "SIM"
+<br>&emsp;&emsp;<b>OP 2.4</b>: Clicar com o botão esquerdo do mouse
 </p>
 
 # Referências
