@@ -29,9 +29,14 @@
 		<td>Adição de definir foto de perfil</td>
 		<td>12/11/2019</td>
 	</tr>
-  <tr>
+	<tr>
 		<td>1.2</td>
 		<td>Adição de criar projeto</td>
+		<td>12/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Adição de Encontrar projeto específico</td>
 		<td>12/11/2019</td>
 	</tr>
 </table>
@@ -112,8 +117,43 @@
 <br>&emsp;&emsp;<b>OP.2.9</b>: Selecionar o campo "Palavras-chave"
 <br>&emsp;&emsp;<b>OP.2.10</b>: Escolher o tipo de ajuda dentre as opções disponíveis
 <br>&emsp;&emsp;<b>OP.2.11</b>: Clicar no botão "Criar"
-
 </p>
 
-# Referências <div class="line"></div>
+## Encontrar projeto específico
+
+<p>
+<b>GOAL 0</b>: Encontrar projeto específico
+<br>&emsp;<b>GOAL 1</b>: Pesquisar por projeto
+<br>&emsp;&emsp;<b>OP 1.1</b>: Deslocar o cursor do mouse para a caixa de pesquisa
+<br>&emsp;&emsp;<b>OP 1.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;<b>OP 1.3</b>: Digitar tags relacionadas a um projeto
+<br>&emsp;&emsp;<b>GOAL 1.4</b>: Confirmar pesquisa
+<br>&emsp;&emsp;&emsp;<b>METHOD 1.4.A</b>: Através de botão
+<br>&emsp;&emsp;&emsp;(SEL. RULE</b>: usuário está a utilizar o mouse ou preferência do usuário)
+<br>&emsp;&emsp;&emsp;&emsp;<b>OP 1.4.A.1</b>: Deslocar o cursor do mouse para o botão "Buscar
+<br>&emsp;&emsp;&emsp;&emsp;<b>OP 1.4.A.2</b>: Clicar com o botão esquerdo
+<br>&emsp;&emsp;&emsp;&emsp;
+<br>&emsp;&emsp;&emsp;<b>METHOD 1.4.B</b>: Através do teclado
+<br>&emsp;&emsp;&emsp;(SEL. RULE</b>: usuário está a utilizar o teclado ou preferência do usuário)
+<br>&emsp;&emsp;&emsp;&emsp;<b>OP 1.4.B.1</b>: Apertar a tecla Enter
+<br>&emsp;&emsp;
+<br>&emsp;<b>GOAL 2</b>: Escolher algum resultado
+<br>&emsp;&emsp;<b>METHOD 2.A</b>: Utilizando o título
+<br>&emsp;&emsp;(SEL. RULE</b>: preferência do usuário)
+<br>&emsp;&emsp;&emsp;<b>OP 2.A.1</b>: Deslocar o cursor do mouse para o título de um cartão
+<br>&emsp;&emsp;&emsp;<b>OP 2.A.2</b>: Clicar com o botão esquerdo
+<br>&emsp;&emsp;&emsp;
+<br>&emsp;&emsp;<b>METHOD 2.B</b>: Utilizando a descrição
+<br>&emsp;&emsp;(SEL. RULE</b>: preferência do usuário)
+<br>&emsp;&emsp;&emsp;<b>OP 2.B.1</b>: Deslocar o cursor do mouse para a descrição de um cartão
+<br>&emsp;&emsp;&emsp;<b>OP 2.B.2</b>: Clicar com o botão esquerdo
+<br>&emsp;&emsp;&emsp;
+<br>&emsp;&emsp;<b>METHOD 2.C</b>: Utilizando "Saiba Mais"
+<br>&emsp;&emsp;(SEL. RULE</b>: preferência do usuário)
+<br>&emsp;&emsp;&emsp;<b>OP 2.C.1</b>: Deslocar o cursor do mouse para o hipertexto "SAIBA MAIS"
+<br>&emsp;&emsp;&emsp;<b>OP 2.C.2</b>: Clicar com o botão esquerdo
+</p>
+
+# Referências
+<div class="line"></div>
 <p text-align="justify">&emsp;&emsp;Prof. Alberto Raposo, Análise e Modelos de tarefas - PUC Rio. Disponível em: <a href=https://webserver2.tecgraf.puc-rio.br/~abraposo/inf1403/INF1403_13_tarefas.pdf>https://webserver2.tecgraf.puc-rio.br/~abraposo/inf1403/INF1403_13_tarefas.pdf</a>. Acesso em: 12 nov. 2019.</p>
