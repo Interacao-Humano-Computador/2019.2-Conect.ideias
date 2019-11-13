@@ -19,6 +19,7 @@ nav:
         - Questionário: questionario.md
     - Guia de estilo: estilo_guia.md
   - Concepção/Avaliação:
+    - Planejamento da Avaliação: planejamento_avaliacao.md
     - Guia de estilo: novo_guia.md
     - Metas de usabilidade: metas_usabilidade.md
     - Protótipo de Papel: prototipo_papel.md
