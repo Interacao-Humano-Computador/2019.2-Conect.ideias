@@ -74,7 +74,7 @@
 <br>&emsp;&emsp;<b>OP 1.4</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;
 <br>&emsp;<b>GOAL 2</b>: Entrar na página de edição de perfil
-<br>&emsp;&emsp;<b>OP 2.1</b>: Deslocar o cursor do mouse para o botão Editar Perfil
+<br>&emsp;&emsp;<b>OP 2.1</b>: Deslocar o cursor do mouse para o botão "Editar Perfil"
 <br>&emsp;&emsp;<b>OP 2.2</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;
 <br>&emsp;<b>GOAL 3</b>: Enviar imagem
@@ -95,7 +95,7 @@
 <br>&emsp;&emsp;&emsp;
 <br>&emsp;&emsp;<b>GOAL 3.2</b>: Submeter arquivo
 <br>&emsp;&emsp;&emsp;<b>GOAL 3.2.1</b>: Preencher campos obrigatórios
-<br>&emsp;&emsp;&emsp;&emsp;<b>OP 3.2.1.1</b>: Deslocar o cursor do mouse para o campo telefone
+<br>&emsp;&emsp;&emsp;&emsp;<b>OP 3.2.1.1</b>: Deslocar o cursor do mouse para o campo "Telefone"
 <br>&emsp;&emsp;&emsp;&emsp;<b>OP 3.2.1.2</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;&emsp;&emsp;<b>OP 3.2.1.2</b>: Digitar informação
 <br>&emsp;&emsp;&emsp;<b>OP 3.2.2</b>: Deslocar o cursor do mouse para o botão "Salvar"
@@ -107,7 +107,7 @@
 <p>
 <b>GOAL 0</b>: Criar um projeto
 <br>&emsp;<b>GOAL 1</b>: Acessar a página de criação de projeto
-<br>&emsp;&emsp;<b>OP 1.1</b>: Deslocar o cursor do mouse para o botão "Criar projeto."
+<br>&emsp;&emsp;<b>OP 1.1</b>: Deslocar o cursor do mouse para o botão "Criar projeto"
 <br>&emsp;&emsp;<b>OP 1.2</b>: Clicar com o botão esquerdo do mouse
 <br>&emsp;&emsp;
 <br>&emsp;<b>GOAL 2</b>: Preencher as informações do novo projeto
