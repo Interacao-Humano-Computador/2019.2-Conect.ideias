@@ -29,6 +29,11 @@
 		<td>Adição de definir foto de perfil</td>
 		<td>12/11/2019</td>
 	</tr>
+  <tr>
+		<td>1.2</td>
+		<td>Adição de criar projeto</td>
+		<td>12/11/2019</td>
+	</tr>
 </table>
 
 ## Registro
@@ -85,6 +90,29 @@
 <br>&emsp;&emsp;&emsp;&emsp;<b>OP 3.2.1.2</b>: Digitar informação
 <br>&emsp;&emsp;&emsp;<b>OP 3.2.2</b>: Deslocar o cursor do mouse para o botão "Salvar"
 <br>&emsp;&emsp;&emsp;<b>OP 3.2.3</b>: Clicar com o botão esquerdo do mouse
+</p>
+
+## Criar projeto
+
+<p>
+<b>GOAL 0</b>: Criar um projeto
+<br>&emsp;<b>GOAL 1</b>: Acessar a página de criação de projeto
+<br>&emsp;&emsp;<b>OP.1.1</b>: Deslocar o cursor do mouse para o botão "Criar projeto."
+<br>&emsp;&emsp;<b>OP.1.2</b>: Clicar com o botão esquerdo do mouse
+<br>&emsp;&emsp;
+<br>&emsp;<b>GOAL 2</b>: Preencher as informações do novo projeto
+<br>&emsp;&emsp;<b>OP.2.1</b>: Selecionar o campo "Nome do projeto"
+<br>&emsp;&emsp;<b>OP.2.2</b>: Preencher o nome do projeto
+<br>&emsp;&emsp;<b>OP.2.3</b>: Selecionar o campo "Descrição"
+<br>&emsp;&emsp;<b>OP.2.4</b>: Preencher a descrição do projeto
+<br>&emsp;&emsp;<b>OP.2.5</b>: Selecionar o campo "Próximos passos"
+<br>&emsp;&emsp;<b>OP.2.6</b>: Preencher os próximos passos do projeto
+<br>&emsp;&emsp;<b>OP.2.7</b>: Selecionar o campo "Palavras-chave"
+<br>&emsp;&emsp;<b>OP.2.8</b>: Preencher as palavras-chave do projeto
+<br>&emsp;&emsp;<b>OP.2.9</b>: Selecionar o campo "Palavras-chave"
+<br>&emsp;&emsp;<b>OP.2.10</b>: Escolher o tipo de ajuda dentre as opções disponíveis
+<br>&emsp;&emsp;<b>OP.2.11</b>: Clicar no botão "Criar"
+
 </p>
 
 # Referências <div class="line"></div>
