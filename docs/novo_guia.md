@@ -2,6 +2,9 @@
 <div class="line"></div>
 <p text-align="justify">&emsp;&emsp;O guia de estilo define a comunicação verbal e visual da aplicação. Ele deve ser desenvolvido levando em consideração qual mensagem e características se quer passar aos usuários.</p>
 
+## Participantes
+- Sofia Patrocínio
+
 ## Versões
 
 <table class="versions">
