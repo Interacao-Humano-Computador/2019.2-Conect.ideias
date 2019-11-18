@@ -2,6 +2,9 @@
 <div class="line"></div>
 <p text-align="justify">&emsp;&emsp;O guia de estilo define a comunicação verbal e visual da aplicação. Ele deve ser desenvolvido levando em consideração qual mensagem e características se quer passar aos usuários.</p>
 
+## Participantes
+- Sofia Patrocínio
+
 ## Versões
 
 <table class="versions">
@@ -12,23 +15,33 @@
 	</tr>
 	<tr>
 		<td>1.0</td>
+		<td><a href="../estilo_guia">Primeira versão guia de estilo.</a></td>
+		<td>10/09/2019</td>
+	</tr>	
+	<tr>
+		<td>1.1</td>
 		<td>Criação da nova logo.</td>
 		<td>08/10/2019</td>
 	</tr>	
 	<tr>
-		<td>1.1</td>
+		<td>1.2</td>
 		<td>Criação da nova paleta de cores e tipografia.</td>
 		<td>10/10/2019</td>
 	</tr>
 	<tr>
-		<td>1.2</td>
+		<td>1.3</td>
 		<td>Criação da aplicação.</td>
 		<td>11/10/2019</td>
 	</tr>		
 	<tr>
-		<td>1.2</td>
+		<td>1.4</td>
 		<td>Adição do guia de estilo.</td>
 		<td>14/10/2019</td>
+	</tr>	
+	<tr>
+		<td>1.5</td>
+		<td>Adição do versionamento do guia.</td>
+		<td>13/11/2019</td>
 	</tr>	
 </table> 
 
@@ -53,3 +66,6 @@
 <img src="../assets/novo_guia/guia-10.png">
 <p text-align="justify">&emsp;&emsp;</p>
 <img src="../assets/novo_guia/guia-11.png">
+
+### Referências
+CANVA. Canva, 2019. Disponível em: [https://www.canva.com/learn/your-brand-needs-a-visual-style-guide/](https://www.canva.com/learn/your-brand-needs-a-visual-style-guide/). Acesso em 14 de novembro de 2019.
