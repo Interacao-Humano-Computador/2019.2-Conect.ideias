@@ -8,7 +8,7 @@
 	</tr>
 	<tr>
 		<td>1.0</td>
-		<td>Adição do storyboard.</td>
+		<td>Adição do <a href="../assets/storyboard/storyboard1.png">storyboard</a>.</td>
 		<td>7/9/2019</td>
   </tr>
   <tr>
@@ -21,7 +21,11 @@
 		<td>Adição de tabela de diferentes versões do storyboard.</td>
 		<td>16/10/2019</td>
 	</tr>
-
+	<tr>
+		<td>1.3</td>
+		<td>Remoção da versão antiga do storyboard da página principal e adição do link na tabela de versionamento.</td>
+		<td>18/10/2019</td>
+	</tr>
 </table> 
 
 ### Participantes
@@ -29,11 +33,5 @@
 <br>
 <br>
 
-### Versão 2 (Atual)
-
 <img src="../assets/storyboard/storyboard2.jpg">
-
-### Versão 1 (Ultrapassada)
-
-<img src="../assets/storyboard/storyboard1.png">
 
