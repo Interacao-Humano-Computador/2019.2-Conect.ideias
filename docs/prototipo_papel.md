@@ -41,6 +41,10 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 - Kaique
 <br><br>
 
+### Termo de consentimento
+
+[Termo de consentimento livre e esclarecido](./termo_consentimento.md)
+
 ## Protótipos
 [Protótipo de Papel (Versão 1)](./foto_prototipo.md)<br>
 [Protótipo de Papel (Versão 2) - Versão utilizada para avaliação](./foto_prototipo2.md)

@@ -21,6 +21,10 @@ As tarefas requisitadas ao usuário foram:
 2. Os padrões de interação utilizados são intuitivos?
 3. Os títulos dos botões são intuitivos?
 
+### Termo de consentimento
+
+[Termo de consentimento livre e esclarecido](./termo_consentimento.md)
+
 ## Respostas
 
 <table class="versions">
