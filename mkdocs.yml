@@ -18,7 +18,6 @@ nav:
     - Técnicas de Análise:
         - Entrevistas: entrevistas/entrevistas.md
         - Questionário: questionario.md
-    - Guia de estilo: estilo_guia.md
   - Concepção/Avaliação:
     - Planejamento da Avaliação: planejamento_avaliacao.md
     - Guia de estilo: novo_guia.md
