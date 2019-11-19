@@ -24,7 +24,7 @@
 	<tr>
 		<td>1.3</td>
 		<td>Remoção da versão antiga do storyboard da página principal e adição do link na tabela de versionamento.</td>
-		<td>18/10/2019</td>
+		<td>18/11/2019</td>
 	</tr>
 </table> 
 
