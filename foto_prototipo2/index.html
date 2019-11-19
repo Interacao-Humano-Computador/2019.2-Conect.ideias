@@ -147,6 +147,10 @@
 <li >
     <a href="../media_fidelidade/">Protótipo de Média Fidelidade</a>
 </li>
+                                    
+<li >
+    <a href="../alta_fidelidade/">Protótipo de Alta Fidelidade</a>
+</li>
                                 </ul>
                             </li>
                         </ul>
@@ -168,7 +172,9 @@
         <li class="main active"><a href="#prototipo-de-papel-versao-2">Protótipo de Papel (Versão 2)</a></li>
             <li><a href="#objetivos">Objetivos</a></li>
             <li><a href="#perguntas">Perguntas</a></li>
-            <li><a href="#respostas">Respostas</a></li>
+            <li><a href="#respostas-para-as-perguntas-propostas">Respostas para as perguntas propostas</a></li>
+            <li><a href="#respostas-para-os-objetivos-propostos">Respostas para os objetivos propostos</a></li>
+            <li><a href="#pontos-importantes-para-o-reprojeto-do-sistema">Pontos importantes para o reprojeto do sistema</a></li>
             <li><a href="#imagens-do-prototipo">Imagens do Protótipo</a></li>
     </ul>
 </div></div>
@@ -178,17 +184,30 @@
 <p><div class="line"></div></p>
 <h2 id="objetivos">Objetivos</h2>
 <p>A avaliação foi efetuada utilizando um protótipo de papel de duas partes cruciais do sistema (de acordo com as entrevistas e questionário). As funcionalidades testadas foram a busca de projetos e a página de um projeto.
-<br>
-As tarefas requisitadas ao usuário foram:
 <br></p>
 <ul>
-<li>Buscar um projeto específico.</li>
-<li>Descobrir informações do projeto.<ul>
-<li>Descrição.</li>
-<li>Pessoas que trabalham no projeto.</li>
+<li>
+<p>Analisar a apropriação da tecnologia</p>
+<ul>
+<li>
+<p>Os termos usados na interface são compreensíveis para os usuários?</p>
+</li>
+<li>
+<p>A aplicação pode ajudar os usuários a atingirem seus objetivos de forma mais eficiente?</p>
+</li>
+<li>Qual o número de erros cometidos pelos usuários</li>
 </ul>
 </li>
-<li>Solicitar participação no projeto.</li>
+</ul>
+<p><br></p>
+<ul>
+<li>
+<p>Identificar problemas na interação e interface</p>
+<ul>
+<li>Alguma informação relevante no contexto da aplicação não é mostrada aos usuários?</li>
+<li>Os padrões de interação utilizados são intuitivos?</li>
+</ul>
+</li>
 </ul>
 <h2 id="perguntas">Perguntas</h2>
 <ol>
@@ -196,7 +215,7 @@ As tarefas requisitadas ao usuário foram:
 <li>Os padrões de interação utilizados são intuitivos?</li>
 <li>Os títulos dos botões são intuitivos?</li>
 </ol>
-<h2 id="respostas">Respostas</h2>
+<h2 id="respostas-para-as-perguntas-propostas">Respostas para as perguntas propostas</h2>
 <table class="versions">
     <tr>
         <th>Pergunta</th>
@@ -221,6 +240,43 @@ As tarefas requisitadas ao usuário foram:
 </table>
 
 <p><br></p>
+<h2 id="respostas-para-os-objetivos-propostos">Respostas para os objetivos propostos</h2>
+<table class="versions">
+    <tr>
+        <th>Objetivo</th>
+        <th>Resposta</th>
+    </tr>
+    <tr>
+        <td>Os termos usados na interface são compreensíveis para os usuários?</td>
+        <td>Não. Para o usuário, o fato de clicar em "Solicitar participação" já era suficiente para fazer parte de um projeto, diferente do esperado - que o "dono" do projeto deveria aceitar sua solicitação antes. Outro fator, esse já devido ao nível de fidelidade do protótipo, foi não conseguir diferenciar a aba de "Descrição" e "Participantes" e mesmo após resolver essa dúvida, o termo não descrevia bem o que a página mostrava.</td>
+    </tr>
+    <tr>
+        <td>A aplicação pode ajudar os usuários a atingirem seus objetivos de forma mais eficiente</td>
+        <td>Sim. Após a avaliação, o usuário relatou não existir a possibilidade de explorar projetos, apenas buscar projetos específicos através da caixa de busca. Isso é um ponto importante, pois de acordo com os objetivos da plataforma o usuário pode não saber - e provavelmente não vai, na maior parte dos casos - de antemão qual projeto o interessaria, e o caso de uso mais importante é justamente trazer esse tipo de usuário para o mundo da inovação partindo da sua participação em algum projeto que combine com seus interesses.</td>
+    </tr>
+    <tr>
+        <td>Qual o número de erros cometidos pelos usuários?</td>
+        <td>Usuário 1:<br>1) 1 erro<br>2) 2 erros <br> 3) 0 erros<br>
+        Usuário 2:<br>1) 0 erros<br>2) 1 erro<br>3) 0 erros</td>
+    </tr>
+    <tr>
+        <td>Alguma informação relevante no contexto da aplicação não é mostrada aos usuários?</td>
+        <td> Não. Mas na opinião do grupo, nesse nível de fidelidade não conseguimos avaliar isso muito bem, a prototipação de papel é feita para ser rápida e testar interações mais pontuais.</td>
+    <tr>
+        <td>Os padrões de interação utilizados são intuitivos?</td>
+        <td>Em parte. Não ficou claro que se o usuário tocasse na lupa no canto da tela ou apertasse "Enter" (possibilidade não testável nesse nível de prototipação) seria redirecionado para uma página de resultados correspondentes aos termos buscados.</td>
+    </tr>
+</table>
+
+<p><br></p>
+<h2 id="pontos-importantes-para-o-reprojeto-do-sistema">Pontos importantes para o reprojeto do sistema</h2>
+<p>Para o avanço bem sucedido do desenvolvimento do projeto, as seguintes alterações devem ser feitas e testadas novamente:</p>
+<ul>
+<li>Adicionar uma forma de busca para os usuários que estão apenas explorando por projetos interessantes. Uma boa possibilidade seria uma busca por categorias e uma forma de ordenação. Segundo as entrevistas, questionário e avaliação, a busca é a parte essencial do projeto.</li>
+<li>Alterar o texto do botão "Participantes" nas páginas de projeto para algo mais descritivo.</li>
+<li>Separar a barra de navegação da página de projeto como abas.</li>
+<li>Na página de projeto, destacar a aba sendo ativa no momento.</li>
+</ul>
 <h2 id="imagens-do-prototipo">Imagens do Protótipo</h2>
 <p><img src="../assets/prototipo2/Protótipo2-1.png">
 <img src="../assets/prototipo2/Protótipo2-2.png">

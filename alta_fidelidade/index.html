@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>Planejamento de Melhorias - Meraki</title>
+        <title>Protótipo de Alta Fidelidade - Meraki</title>
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -50,7 +50,7 @@
                             <li >
                                 <a href="..">Inicial</a>
                             </li>
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Planejamento <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -58,8 +58,8 @@
     <a href="../planejamento/">Planejamento Inicial</a>
 </li>
                                     
-<li class="active">
-    <a href="./">Planejamento de Melhorias</a>
+<li >
+    <a href="../melhorias/">Planejamento de Melhorias</a>
 </li>
                                 </ul>
                             </li>
@@ -124,7 +124,7 @@
   </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Concepção/Avaliação <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -148,8 +148,8 @@
     <a href="../media_fidelidade/">Protótipo de Média Fidelidade</a>
 </li>
                                     
-<li >
-    <a href="../alta_fidelidade/">Protótipo de Alta Fidelidade</a>
+<li class="active">
+    <a href="./">Protótipo de Alta Fidelidade</a>
 </li>
                                 </ul>
                             </li>
@@ -162,12 +162,12 @@
                             </a>
                         </li>
                             <li >
-                                <a rel="next" href="../planejamento/">
+                                <a rel="next" href="../media_fidelidade/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="../storyboard/">
+                            <li class="disabled">
+                                <a rel="prev" >
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -179,89 +179,61 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#planejamento-de-melhoria">Planejamento de Melhoria</a></li>
-            <li><a href="#artefatos">Artefatos</a></li>
+        <li class="main active"><a href="#prototipo-de-alta-fidelidade">Protótipo de Alta Fidelidade</a></li>
+            <li><a href="#participantes">Participantes</a></li>
+            <li><a href="#objetivos">Objetivos</a></li>
+            <li><a href="#termo-de-consentimento">Termo de consentimento</a></li>
+            <li><a href="#resultados">Resultados</a></li>
+            <li><a href="#acesso">Acesso</a></li>
+            <li><a href="#referencias">Referências</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="planejamento-de-melhoria">Planejamento de Melhoria</h1>
+<h1 id="prototipo-de-alta-fidelidade">Protótipo de Alta Fidelidade</h1>
 <p><div class="line"></div></p>
-<p align="justify">&emsp;
-Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que não fora realizado, afim de mitigar os erros e trazer novos artefatos ao projeto.
-</p>
-
-<h2 id="artefatos">Artefatos</h2>
-<table class="artefatos">
-    <tr>
-        <th>Artefato</th>
-        <th>Situação</th>
-        <th>Responsável pela melhoria</th>
-    </tr>
-    <tr>
-        <td>StoryBoard</td>
-        <td>Feito e entregue, porém, com a mudança do nome do projeto, necessita de atualização.</td>
-        <td>Luís Henrique</td>
-    </tr>
-    <tr>
-        <td>Guia de Estilo</td>
-        <td>Feito e entregue, porém, há duas versões por conta da mudança de nome do projeto, e essas versões estão em locais diferentes.</td>
-        <td>Sofia Patrocínio</td>
-    </tr>
-    <tr>
-        <td>Metas de Usabilidade</td>
-        <td>Feito e entregue</td>
-        <td>Ok</td>
-    </tr>
-    <tr>
-        <td>Avaliação Heurística</td>
-        <td>Feito e entregue.</td>
-        <td>Ok</td>
-    </tr>
-    <tr>
-        <td>Perfil do Usuário</td>
-        <td>Feito e entregue (Questionário, Entervistas e Personas), porém faltou a avaliação final, relatando como é o nosso perfil de usuário.</td>
-        <td>Sofia Patrocínio</td>
-    </tr>
-    <tr>
-        <td>Análise de Tarefas</td>
-        <td>Feito e entregue, porém precisa de melhorias, e de novas técnicas como a GOMS (Goals, Operators, Methods, Selection rules).</td>
-        <td>Eduardo Lima, Samuel Pereira</td>
-    </tr>
-    <tr>
-        <td>Características da Plataforma</td>
-        <td>Não entregue.</td>
-        <td>Sofia Patrocínio</td>
-    </tr>
-    <tr>
-        <td>Protótipo de Papel</td>
-        <td>Feito e entregue, porém falta o planejamento, termo de consentimento, e necessita refatorar a documentação.</td>
-        <td>Kaique Borges<br>Termo de consentimento: Luís Henrique</td>
-    </tr>
-    <tr>
-        <td>Planejamento da Avaliação</td>
-        <td>Entregue</td>
-        <td>Micaella Gouveia</td>
-    </tr>
-    </tr>
-    <tr>
-        <td>Métodos de Avaliação</td>
-        <td>Entregue</td>
-        <td>Micaella Gouveia e Kaique Borges</td>
-    </tr>
-    <tr>
-        <td>Protótipo de Alta Fidelidade</td>
-        <td>Não entregue.</td>
-        <td>Sofia Patrocínio</td>
-    </tr>
-    <tr>
-        <td>Relato dos resultados da avaliação</td>
-        <td>Não entregue.</td>
-        <td>Sofia Patrocínio</td>
-    </tr>
+<h2 id="participantes">Participantes</h2>
+<ul>
+<li>Kaique Borges</li>
+<li>Samuel Pereira</li>
+<li>Sofia Patrocínio</li>
+</ul>
+<h2 id="objetivos">Objetivos</h2>
+<p>&emsp;&emsp;A avaliação foi efetuada utilizando um protótipo de alta fidelidade feito no Figma com o intuto de corrigir os erros encontrados no Protótipo de Média Fidelidade (Versão 1), e possivelmente encontrar novos erros para corrigi-los. As funcionalidades testadas foram a busca de projetos e a página de um projeto.
+<br>
+&emsp;&emsp;As tarefas requisitadas ao usuário foram:</p>
+<ul>
+<li>Buscar um projeto específico.</li>
+<li>Descobrir informações do projeto.</li>
+<li>Descrição.</li>
+<li>Pessoas que trabalham no projeto.</li>
+<li>Solicitar participação no projeto.</li>
+</ul>
+<h2 id="termo-de-consentimento">Termo de consentimento</h2>
+<p><a href="../termo_consentimento/">Termo de consentimento livre e esclarecido</a></p>
+<h2 id="resultados">Resultados</h2>
+<table class="versions">
+ <tr>
+  <th>Teste</th>
+  <th>Resultado</th>
+ </tr>
+ <tr>
+  <th>
+    1
+  </th>
+  <th>
+   "Tá muito bom, tá bem intuitivo para o usuário, além de estar muito bonito. Utilizar verde e amarelo em diferentes lugares, mas ambos com destaque achei legal. A barra de pesquisa atualizaria enquanto digita ou após clicar em algo? Porque se for após clicar em algo, falta esse algo, esse algo pode ser uma lupinha, qualquer coisa que indique respostas para o usuário. As etiquetas provavelmente são filtros de grupo, certo? Achei legal um select. E por último, a lixeira vermelha em cima do azul, acho que ficou muito escondida. Enfim, tá maravilhoso demais, arrasaram."
+  </th>
+ </tr>
 </table>
 
-<p><br></p></div>
+<p><br></p>
+<h2 id="acesso">Acesso</h2>
+<p>O acesso ao protótipo de alta fidelidade segue abaixo, sendo recomendada a utilização em tela cheia.</p>
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FHWicEKSVt5Iw9OEUfeWcsa4Q%2FMeraki%3Fnode-id%3D243%253A161%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+
+<h2 id="referencias">Referências</h2>
+<p>&emsp;&emsp;Prototyping. Figma Help Center, 2019. Disponível em: &lt;<a href=https://help.figma.com/category/87-prototyping>https://help.figma.com/category/87-prototyping</a>&gt;. Acesso em: 17 nov. 2019.</p></div>
         </div>
 
         <footer class="col-md-12">
