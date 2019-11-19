@@ -50,3 +50,15 @@ As tarefas requisitadas ao usuário foram:
  </tr>
 </table> 
 <br>
+
+## Imagens do Protótipo
+<div class="line"></div>
+
+<img src="../assets/media-fidelidade/1.jpeg">
+<img src="../assets/media-fidelidade/2.jpeg">
+<img src="../assets/media-fidelidade/3.jpeg">
+<img src="../assets/media-fidelidade/4.jpeg">
+<img src="../assets/media-fidelidade/5.jpeg">
+<img src="../assets/media-fidelidade/6.jpeg">
+<img src="../assets/media-fidelidade/7.jpeg">
+
