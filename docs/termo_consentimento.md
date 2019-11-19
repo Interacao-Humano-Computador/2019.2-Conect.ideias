@@ -9,15 +9,18 @@
   	<tr>
 		<td>1.1</td>
 		<td>Adição do termo de consentimento.</td>
-		<td>13/10/2019</td>
+		<td>13/11/2019</td>
 	</tr>
 	<tr>
 		<td>1.2</td>
 		<td>Adição de referências.</td>
-		<td>16/10/2019</td>
+		<td>16/11/2019</td>
 	</tr>
 </table> 
 <br>
+
+### Participantes
+- Luís Henrique
 
 <img src="../assets/consentimento/termo.png">
 
