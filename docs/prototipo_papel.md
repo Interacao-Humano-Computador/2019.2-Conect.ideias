@@ -38,7 +38,7 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 
 ## Participantes
 - Micaella Gouveia
-- Kaique
+- Kaique Borges
 <br><br>
 
 ### Termo de consentimento
@@ -49,4 +49,7 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 [Protótipo de Papel (Versão 1)](./foto_prototipo.md)<br>
 [Protótipo de Papel (Versão 2) - Versão utilizada para avaliação](./foto_prototipo2.md)
 <br><br>
+
+## Resultados
+
 
