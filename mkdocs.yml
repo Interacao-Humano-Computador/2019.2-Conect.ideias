@@ -24,6 +24,7 @@ nav:
     - Metas de usabilidade: metas_usabilidade.md
     - Protótipo de Papel: prototipo_papel.md
     - Protótipo de Média Fidelidade: media_fidelidade.md
+    - Protótipo de Alta Fidelidade: alta_fidelidade.md
 theme:
   name: readable
   custom_dir: custom
