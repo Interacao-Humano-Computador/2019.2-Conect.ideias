@@ -56,13 +56,13 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 	</tr>
 	<tr>
 		<td>Planejamento da Avaliação</td>
-		<td>Não entregue.</td>
+		<td>Entregue</td>
         <td>Micaella Gouveia</td>
 	</tr>
 	</tr>
 	<tr>
 		<td>Métodos de Avaliação</td>
-		<td>Não entregue.</td>
+		<td>Entregue</td>
         <td>Micaella Gouveia e Kaique Borges</td>
 	</tr>
 	<tr>
