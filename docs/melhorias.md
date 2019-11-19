@@ -6,6 +6,44 @@
 Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que não fora realizado, afim de mitigar os erros e trazer novos artefatos ao projeto.
 </p>
 
+## Participantes
+- Micaella Gouveia
+
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+  <tr>
+		<td>1.0</td>
+		<td>Adição das melhorias a serem feitas</td>
+		<td>12/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Atribuição das melhorias para cada participante</td>
+		<td>13/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição de criar projeto</td>
+		<td>12/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Adição das datas de entrega</td>
+		<td>18/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Criação do <a href= "../melhorias_final">Planejamento de Melhorias(Versão 2)</a></td>
+		<td>18/11/2019</td>
+	</tr>
+</table>
+
 ## Artefatos
 
 <table class="artefatos">
@@ -56,13 +94,13 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 	</tr>
 	<tr>
 		<td>Planejamento da Avaliação</td>
-		<td>Entregue</td>
+		<td>Não entregue</td>
         <td>Micaella Gouveia</td>
 	</tr>
 	</tr>
 	<tr>
 		<td>Métodos de Avaliação</td>
-		<td>Entregue</td>
+		<td>Não entregue</td>
         <td>Micaella Gouveia e Kaique Borges</td>
 	</tr>
 	<tr>
