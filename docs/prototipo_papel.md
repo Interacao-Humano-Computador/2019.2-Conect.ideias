@@ -50,3 +50,6 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 [Protótipo de Papel (Versão 2) - Versão utilizada para avaliação](./foto_prototipo2.md)
 <br><br>
 
+## Resultados
+
+
