@@ -62,27 +62,27 @@ Para o planejamento do projeto, estamos utilizando o Google Calendar, onde agend
 	<tr>
 		<td>Protótipo de Papel</td>
 		<td>Kaique e Micaella</td>
-		<td>-</td>
+		<td>14/10/2019</td>
 	</tr>
 	<tr>
 		<td>Guia de Estilo</td>
 		<td>Sofia</td>
-		<td>-</td>
+		<td>12/10/2019</td>
 	</tr>
 	<tr>
 		<td>Avaliar Protótipo de Papel</td>
 		<td>Eduardo, Luís e Micaella</td>
-		<td>-</td>
+		<td>14/10/2019</td>
 	</tr>
     <tr>
 		<td>Personas</td>
 		<td>Eduardo e Luís</td>
-		<td>-</td>
+		<td>10/10/2019</td>
 	</tr>
     <tr>
 		<td>Entrevista</td>
 		<td>Todos os membros</td>
-		<td>-</td>
+		<td>12/10/2019</td>
 	</tr>
     
 </table> 
@@ -98,24 +98,24 @@ Para o planejamento do projeto, estamos utilizando o Google Calendar, onde agend
 		<th>Data de Entrega</th>
 	</tr>
 	<tr>
-		<td>Protótipo de Alta fidelidade</td>
-		<td>-</td>
-		<td>-</td>
+		<td>Protótipo de Média fidelidade</td>
+		<td>Sofia Patrocínio e Micaella Gouveia</td>
+		<td>05/11/2019</td>
 	</tr>
 	<tr>
-		<td>Planejamento da Avaliação</td>
-		<td>-</td>
-		<td>-</td>
+		<td>Análise Hierárquica de Tarefas</td>
+		<td>Luís, Eduardo e Samuel</td>
+		<td>04/11/2019</td>
 	</tr>
 	<tr>
-		<td>Avaliar protótipo da Alta fidelidade</td>
-		<td>-</td>
-		<td>-</td>
+		<td>Avaliar protótipo de papel</td>
+		<td>Kaique Borges</td>
+		<td>04/11/2019</td>
 	</tr>
 </table> 
 <br>
 
-## Ponto de Controle 4 - 14/11 
+## Ponto de Controle 4 - 19/11 
 
 <table class="versions">
 	<tr>
@@ -125,18 +125,28 @@ Para o planejamento do projeto, estamos utilizando o Google Calendar, onde agend
 	</tr>
 	<tr>
 		<td>Protótipo de Alta fidelidade</td>
-		<td>-</td>
-		<td>-</td>
+		<td>Sofia e Samuel</td>
+		<td>18/11/2019</td>
 	</tr>
 	<tr>
 		<td>Planejamento da Avaliação</td>
-		<td>-</td>
-		<td>-</td>
+		<td>Micaella e Kaique</td>
+		<td>18/11/2019</td>
 	</tr>
 	<tr>
-		<td>Avaliar protótipo da Alta fidelidade</td>
-		<td>-</td>
-		<td>-</td>
+		<td>GOMS</td>
+		<td>Samuel e Eduardo</td>
+		<td>17/11/2019</td>
+	</tr>
+	<tr>
+		<td>Características da Plataforma</td>
+		<td>Sofia Patrocínio</td>
+		<td>11/11/2019</td>
+	</tr>
+	<tr>
+		<td>Termo de Consentimento</td>
+		<td>Luís Henrique</td>
+		<td>15/11/2019</td>
 	</tr>
 </table> 
 <br>

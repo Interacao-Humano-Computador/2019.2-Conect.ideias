@@ -23,7 +23,12 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 		<td>1.1</td>
 		<td>Atualização de melhorias.</td>
 		<td>19/11/2019</td>
-	</tr>	
+	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Criação do <a href= "../melhorias_final">Planejamento de Melhorias(Versão 2)</a></td>
+		<td>18/11/2019</td>
+	</tr>
 </table> 
 
 ## Artefatos
