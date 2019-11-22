@@ -39,8 +39,9 @@ Os objetivos propostos foram:
 
 -  Identificar problemas na interação e interface:
 
-     - Alguma informação relevante no contexto da aplicação não é mostrada aos usuários?
-	 - Os padrões de interação utilizados são intuitivos?
+     - quantas vezes o usuário não conseguiu realizar tarefas por não achar o campo destinado a ela? 
+
+     - quantas vezes o usuário não conseguiu realizar tarefas por não achar o padrão intuitivo?
 
 ## Tarefas
 
@@ -63,7 +64,7 @@ O perfil dos usuários será bem semelhante às personas estabelecidas, pois ass
 
 ## Preparação
 Para o teste de usabilidade, realizamos previamente um teste piloto, afim de mitigiar erros mais bruscos. Realizamos o teste em um ambiente controlado, aplicando previamente o [Termo de consentimento livre e esclarecido](./termo_consentimento.md) para todos os usuários que testaram o protótipo. <br>
-Os dados forma coletados por meio de uma gravação de tela do teste realizado pelo usuário.
+Os dados forma coletados por meio de uma gravação de tela e áudio do teste realizado pelo usuário.
 
 ## Relatos
 
