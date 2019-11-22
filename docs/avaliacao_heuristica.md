@@ -11,7 +11,7 @@
 	<tr>
 		<td>1.0</td>
 		<td>Criação e adição da Avaliação Heurística.</td>
-		<td>16/11/2019</td>
+		<td>10/09/2019</td>
 	</tr>	
 </table> 
 
