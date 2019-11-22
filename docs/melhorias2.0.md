@@ -6,6 +6,9 @@
 Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que não fora realizado, afim de mitigar os erros e trazer novos artefatos ao projeto.
 </p>
 
+## Participantes
+- Sofia Patrocínio
+
 ## Versões
 
 <table class="versions">

@@ -1,6 +1,31 @@
 # Metas de Usabilidade
 <div class="line"></div>
 
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+	<tr>
+		<td>1.0</td>
+		<td>Criação do documento.</td>
+		<td>06/09/2019</td>
+	</tr>	
+	<tr>
+		<td>1.1</td>
+		<td>Adição das metas de usabilidade.</td>
+		<td>08/09/2019</td>
+	</tr>	
+</table> 
+
+## Participantes
+- Eduardo Lima
+- Luís Henrique
+- Micaella Gouveia
+
 ### Eficácia
 <p text-align="justify">&emsp;&emsp;O sistema deverá fazer com que o usuário possa: criar projetos, encontrar projetos e suas informações, participar de projetos.</p>
 

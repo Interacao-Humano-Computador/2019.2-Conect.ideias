@@ -6,9 +6,6 @@
 Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que não fora realizado, afim de mitigar os erros e trazer novos artefatos ao projeto.
 </p>
 
-## Participantes
-- Micaella Gouveia
-
 ## Versões
 
 <table class="versions">
@@ -19,10 +16,13 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 	</tr>
   <tr>
 		<td>1.0</td>
-		<td>Adição das melhorias a serem feitas</td>
+		<td>Adição das melhorias a serem feitas.</td>
 		<td>19/11/2019</td>
 	</tr>
 </table>
+
+## Participantes
+- Micaella Gouveia
 
 ## Artefatos
 

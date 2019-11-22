@@ -31,7 +31,12 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 	<tr>
 		<td>1.3</td>
 		<td>Documentação da versão 2 do protótipo.</td>
-		<td>01/11/2019</td>
+		<td>15/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.4</td>
+		<td>Adição de referências e do Planejamento da Avaliação.</td>
+		<td>22/11/2019</td>
 	</tr>
 </table> 
 <br>
@@ -41,7 +46,10 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 - Kaique Borges
 <br><br>
 
-### Termo de consentimento
+## Planejamento da Avaliação
+[Planejamento da Avaliação do Protótipo de Papel](../../planejamento_avaliacao_prototipo_papel)
+
+## Termo de consentimento
 
 [Termo de consentimento livre e esclarecido](./termo_consentimento.md)
 
@@ -50,6 +58,14 @@ Para buscar esses feedbacks, fizemos testes com o protótipo criado e levantamos
 [Protótipo de Papel (Versão 2) - Versão utilizada para avaliação](./foto_prototipo2.md)
 <br><br>
 
-## Resultados
+## Respostas
+
+As respostas e análise da prototipação de papel está disponíveis em [Protótipo de Papel (Versão 2)](./foto_prototipo2.md).
+
+## Referências
+
+- GAIA PROTÓTIPO: UM MODELO DE PROTOTIPAÇÃO PARA PROCESSOS DE DESENVOLVIMENTO DE
+SOFTWARE.  Disponível em: http://www.uel.br/cce/dc/wp-content/uploads/VersaoPreliminarTCC-BRUNO_CARAZATO_DE_OLIVEIRA.pdf.<br>
+Acesso em 20 de novembro de 2019.
 
 
