@@ -43,3 +43,6 @@
 
 ### Memorização
 <p text-align="justify">&emsp;&emsp;Os processos principais, como criar e encontrar projetos devem ser previsíveis e consistentes.</p>
+
+## Referências <div class="line"></div>
+<p text-align="justify">&emsp;&emsp;Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: <a href=https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a>https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a</a>. Acesso em: 6 set. 2019.</p>
