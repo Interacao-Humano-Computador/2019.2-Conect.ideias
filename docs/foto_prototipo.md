@@ -1,5 +1,23 @@
 # Protótipo de Papel (Versão 1)
 
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+	<tr>
+		<td>1.0</td>
+		<td>Criação e adição do Protótipo de Papel.</td>
+		<td>05/11/2019</td>
+	</tr>	
+</table> 
+
+## Participantes
+- Micaella Gouveia
+
 ## Objetivos
 
 - Fazer um julgamento de valor sobre a qualidade de uso da solução de IHC.

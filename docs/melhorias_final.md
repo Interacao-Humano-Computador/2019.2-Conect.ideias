@@ -6,9 +6,6 @@
 Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que não fora realizado, afim de mitigar os erros e trazer novos artefatos ao projeto.
 </p>
 
-## Participantes
-- Micaella Gouveia
-
 ## Versões
 
 <table class="versions">
@@ -19,10 +16,13 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 	</tr>
   <tr>
 		<td>1.0</td>
-		<td>Adição das melhorias a serem feitas</td>
+		<td>Adição das melhorias a serem feitas.</td>
 		<td>19/11/2019</td>
 	</tr>
 </table>
+
+## Participantes
+- Micaella Gouveia
 
 ## Artefatos
 
@@ -43,7 +43,7 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 		<td>Avaliação Heurística</td>
 		<td>Faltam referências e versionamento.</td>
         <td>Kaique Borges</td>
-        <td>-</td>
+        <td>22/11/2019</td>
 	</tr>
 	<tr>
 		<td>Perfil do Usuário</td>
@@ -56,20 +56,20 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 		<td>Protótipo de Papel</td>
 		<td>Falta referências. Retirar a parte dos resultados na página principal.</td>
         <td>Micaella Gouveia</td>
-        <td>-<td>
+        <td>22/11/2019<td>
 	</tr>
 	<tr>
 		<td>Planejamento da Avaliação</td>
 		<td>Falta referência e colocar o planejamento junto com o protótipo.</td>
         <td>Micaella Gouveia, Sofia Patrocínio e Kaique Borges</td>
-        <td>-</td>
+        <td>22/11/2019</td>
 	</tr>
 	</tr>
 	<tr>
 		<td>Métodos de Avaliação</td>
 		<td>Falta justificativa.</td>
         <td>Micaella Gouveia, Sofia Patrocínio e Kaique Borges</td>
-        <td>-</td>
+        <td>22/11/2019</td>
 	</tr>
 	<tr>
 		<td>Protótipo de Alta Fidelidade</td>
@@ -88,7 +88,7 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 		<td>Planejamento de avaliação do protótipo de alta fidelidade.</td>
 		<td>Não entregue.</td>
         <td>Micaella Gouveia, Kaique Borges e Sofia Patrocínio</td>
-        <td>-</td>
+        <td>22/11/2019</td>
 	</tr>
 	<tr>
 		<td>Aplicação a ferramenta do W3C para testar a usabilidade do site novo e do antigo.</td>

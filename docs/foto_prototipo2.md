@@ -1,6 +1,35 @@
 # Protótipo de Papel (Versão 2)
 <div class="line"></div>
 
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+	<tr>
+		<td>1.0</td>
+		<td>Criação e adição do Protótipo de Papel - Versão 2.</td>
+		<td>16/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.1</td>
+		<td>Documentação das respostas geradas pelo teste com o usuário.</td>
+		<td>18/11/2019</td>
+	</tr>	
+	<tr>
+		<td>1.2</td>
+		<td>Documentação do planejamento de avaliação e refatoração do documento.</td>
+		<td>22/11/2019</td>
+	</tr>	
+</table> 
+
+## Participantes
+- Micaella Gouveia
+- Kaique Borges
+
 ## Objetivos
 
 A avaliação foi efetuada utilizando um protótipo de papel de duas partes cruciais do sistema (de acordo com as entrevistas e questionário). As funcionalidades testadas foram a busca de projetos e a página de um projeto.
@@ -103,3 +132,9 @@ Para o avanço bem sucedido do desenvolvimento do projeto, as seguintes alteraç
 <img src="../assets/prototipo2/Protótipo2-4.png">
 <img src="../assets/prototipo2/Protótipo2-5.png">
 <img src="../assets/prototipo2/Protótipo2-6.png">
+
+## Referências
+
+- GAIA PROTÓTIPO: UM MODELO DE PROTOTIPAÇÃO PARA PROCESSOS DE DESENVOLVIMENTO DE
+SOFTWARE.  Disponível em: http://www.uel.br/cce/dc/wp-content/uploads/VersaoPreliminarTCC-BRUNO_CARAZATO_DE_OLIVEIRA.pdf.<br>
+Acesso em 16 de novembro de 2019.

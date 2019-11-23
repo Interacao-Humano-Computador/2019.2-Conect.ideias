@@ -1,6 +1,26 @@
 # Protótipo de Alta Fidelidade
 <div class="line"></div>
 
+## Versões
+
+<table class="versions">
+	<tr>
+		<th class="version_header">Versão</th>
+		<th>Detalhes</th>
+		<th>Data</th>
+	</tr>
+	<tr>
+		<td>1.0</td>
+		<td>Criação do protótipo.</td>
+		<td>16/11/2019</td>
+	</tr>	
+	<tr>
+		<td>1.1</td>
+		<td>Documentação do protótipo de alta fidelidade.</td>
+		<td>17/11/2019</td>
+	</tr>	
+</table> 
+
 ## Participantes
 - Kaique Borges
 - Samuel Pereira
