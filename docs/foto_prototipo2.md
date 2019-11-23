@@ -20,7 +20,7 @@
 		<td>18/11/2019</td>
 	</tr>	
 	<tr>
-		<td>1.1</td>
+		<td>1.2</td>
 		<td>Documentação do planejamento de avaliação e refatoração do documento.</td>
 		<td>22/11/2019</td>
 	</tr>	
