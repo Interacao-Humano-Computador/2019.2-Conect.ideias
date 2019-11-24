@@ -47,7 +47,7 @@ cada perfil.
 		<th>Faixa etária</th>
 		<th>18-25</th>
 		<th>18-25</th>
-        <th>C</th>
+        <th>26-55</th>
 	</tr>
     <tr>
 		<th>Objetivo</th>
@@ -63,15 +63,15 @@ cada perfil.
 	</tr>
     <tr>
 		<th>Ferramentas de comunicação mais utilizadas</th>
-		<th>A</th>
-		<th>B</th>
-        <th>C</th>
+		<th>Whatsapp, Telegram</th>
+		<th>Whatsapp, Telegram</th>
+        <th>Whatsapp, Telegram, E-Mail</th>
 	</tr>
     <tr>
 		<th>Afinidade com tecnologia</th>
-		<th>A</th>
-		<th>B</th>
-        <th>C</th>
+		<th>Plena</th>
+		<th>Plena</th>
+        <th>Plena</th>
 	</tr>
 </table>
 
