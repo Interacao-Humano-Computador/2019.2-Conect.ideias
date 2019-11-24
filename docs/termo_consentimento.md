@@ -8,12 +8,17 @@
 	</tr>
   	<tr>
 		<td>1.1</td>
-		<td>Adição do termo de consentimento.</td>
+		<td>Adição do <a href="../assets/consentimento/termo_antigo.png">termo de consentimento</a>.</td>
 		<td>13/11/2019</td>
 	</tr>
 	<tr>
 		<td>1.2</td>
 		<td>Adição de referências.</td>
+		<td>16/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Inclusão de todos os protótipos no termo de consentimento.</td>
 		<td>16/11/2019</td>
 	</tr>
 </table> 
