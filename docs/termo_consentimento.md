@@ -19,7 +19,7 @@
 	<tr>
 		<td>1.3</td>
 		<td>Inclusão de todos os protótipos no termo de consentimento.</td>
-		<td>16/11/2019</td>
+		<td>24/11/2019</td>
 	</tr>
 </table> 
 <br>
