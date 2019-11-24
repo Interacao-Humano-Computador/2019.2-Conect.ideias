@@ -1,4 +1,4 @@
-# Planejamento de Melhoria (Versão 2)
+# Planejamento de Melhorias (Versão 2)
 <div class="line"></div>
 
 
@@ -14,15 +14,32 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 		<th>Detalhes</th>
 		<th>Data</th>
 	</tr>
-  <tr>
+	<tr>
 		<td>1.0</td>
+		<td>Adiçao do <a href="../melhorias2.0">planejamento de melhorias.</a></td>
+		<td>6/11/2019</td>
+	</tr>	
+	<tr>
+		<td>1.1</td>
+		<td>Atualização de <a href="../melhorias">melhorias</a>.</td>
+		<td>12/11/2019</td>
+	</tr>
+  <tr>
+		<td>1.2</td>
 		<td>Adição das melhorias a serem feitas.</td>
 		<td>19/11/2019</td>
+	</tr>
+	<tr>
+		<td>1.3</td>
+		<td>Alocando Eduardo Lima para perfil do usuário e atualização do documento final de melhorias.</td>
+		<td>24/11/2019</td>
 	</tr>
 </table>
 
 ## Participantes
 - Micaella Gouveia
+- Sofia Patrocínio
+- Luis Henrique
 
 ## Artefatos
 
@@ -48,7 +65,7 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 	<tr>
 		<td>Perfil do Usuário</td>
 		<td>Feito e entregue (Questionário, Entervistas e Personas), porém faltou a avaliação final, relatando como é o nosso perfil de usuário.</td>
-        <td>Luís Henrique</td>
+        <td>Luís Henrique, Eduardo Lima</td>
         <td>-</td>
 	</tr>
 	<tr>
