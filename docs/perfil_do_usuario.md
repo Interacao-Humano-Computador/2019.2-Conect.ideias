@@ -10,29 +10,6 @@ características semelhantes e calcular a proporção de usuários que se encaix
 cada perfil.
 </p>
 
-## Participantes
-- Eduardo Lima
-- Luís Henrique
-
-## Versões
-<table class="versions">
-	<tr>
-		<th class="version_header">Versão</th>
-		<th>Detalhes</th>
-		<th>Data</th>
-	</tr>
-	<tr>
-		<td>1.0</td>
-		<td>Adição da tabela de perfis</td>
-		<td>23/12/2019</td>
-	</tr>
-	<tr>
-		<td>1.1</td>
-		<td>Adição do título, participantes e referências</td>
-		<td>24/12/2019</td>
-	</tr>
-</table>
-
 
 ## Tabela de Perfil
 
