@@ -7,8 +7,8 @@ nav:
     - Planejamento de Melhorias: melhorias.md
   - Contexto de Uso:
     - Storyboard: storyboard.md
-    - Análise de Usuário:
-        - Personas: personas.md
+    - Análise de Usuário: analise_do_usuario.md
+        # - Personas: personas.md
     - Análise de Tarefas:
         - HTA: hta.md
         - GOMS: goms.md
