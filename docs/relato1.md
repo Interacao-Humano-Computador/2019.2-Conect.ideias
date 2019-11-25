@@ -21,7 +21,7 @@ Sofia: A primeira tarefa é buscar por algum projeto.
 <br><br>
 Usuário: Achei
 <br><br>
-Sofia: Ótimo, agora que você encontrou, você precisa descobrir informações sobre o projeto. Descrição e pessoas que trabalham no projeto.
+Sofia: Ótimo, agora que você encontrou, você precisa descobrir informações sobre o projeto. Descrição e blog do projeto.
 <br><br>
 Usuário: Descrição já esta aqui e time nessa aba.
 <br><br>

@@ -48,6 +48,7 @@ Além disso, também foram coletados: anotações do avaliador, vídeos de inter
 [Relato 2](./relato2.md)<br>
 [Relato 3](./relato3.md)<br>
 [Relato 4](./relato4.md)<br>
+[Relato 5](./relato5.md)<br>
 
 ## Análise
 
@@ -65,9 +66,11 @@ Com base nos relatos, criamos essa tabela que relaciona as perguntas feitas com 
 		<th>Usuário 2</th>
 		<th>Usuário 3</th>
 		<th>Usuário 4</th>
+		<th>Usuário 5</th>
 	</tr>
 	<tr>
 		<td>Qual o número de erros cometidos pelo usuário?</td>
+		<td>Nenhum</td>
 		<td>Nenhum</td>
 		<td>Nenhum</td>
 		<td>Nenhum</td>
@@ -79,9 +82,11 @@ Com base nos relatos, criamos essa tabela que relaciona as perguntas feitas com 
 		<td>Sim</td>
 		<td>Sim</td>
 		<td>Sim</td>
+		<td>Sim</td>
 	</tr>	
 	<tr>
 		<td>Quantas vezes o usuário precisou de ajuda?</td>
+		<td>Nenhuma</td>
 		<td>Nenhuma</td>
 		<td>Nenhuma</td>
 		<td>Nenhuma</td>
@@ -93,9 +98,11 @@ Com base nos relatos, criamos essa tabela que relaciona as perguntas feitas com 
 		<td>Nenhuma</td>
 		<td>Nenhuma</td>
 		<td>Nenhuma</td>
+		<td>Nenhuma</td>
 	</tr>	
 	<tr>
 		<td>Quantas vezes o usuário não conseguiu realizar tarefas por não achar o padrão intuitivo?</td>
+		<td>Nenhuma</td>
 		<td>Nenhuma</td>
 		<td>Nenhuma</td>
 		<td>Nenhuma</td>
@@ -127,6 +134,10 @@ Os usuários, por meio do teste de usabilidade, propuseram melhorias a serem fei
 	<tr>
 		<td>4</td>
 		<td>Adicionar um filtro na busca que mostre quais são os projetos que já estou participando.</td>
+	</tr>	
+	<tr>
+		<td>4</td>
+		<td>Dar menos ênfase na parte de "Filtrar por Etiquetas", muitas vezes o usuário não lê o campo e já segue para o campo de pesquisar para procurar um projeto.</td>
 	</tr>	
 </table> 
 
