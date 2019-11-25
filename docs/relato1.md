@@ -39,6 +39,6 @@ Usuário: Depois de preencher nome e subtítulo, o projeto foi criado, mas acho 
 <br><br>
 Sofia: Ok, mais algum comentário?
 <br><br>
-Usuário: Não, achei um site muito fácil de mexer e de compreensão tranquila também. Não precisei de ajuda em nenhum momento, aprendi apenas explorando o site
+Usuário: Não, achei um site muito fácil de mexer e de compreensão tranquila também. Não precisei de ajuda em nenhum momento, aprendi apenas explorando o site.
 <br><br>
 Sofia: Tá bom, muito obrigada!
