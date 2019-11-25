@@ -2,9 +2,6 @@
 
 A característica da plataforma é caracterizado como um documento que descreve objetivos, recursos e restrições da plataforma, afim de identificar pontos fortes e fracos e características específicas da aplicação.
 
-## Participantes
-- Sofia Patrocínio
-
 ## Versões
 
 <table class="versions">
@@ -25,6 +22,9 @@ A característica da plataforma é caracterizado como um documento que descreve 
 	</tr>
 	
 </table>
+
+## Participantes
+- Sofia Patrocínio
 
 ## Objetivos da Plataforma
 

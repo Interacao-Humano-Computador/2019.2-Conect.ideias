@@ -7,11 +7,6 @@
 <br>
 &emsp;&emsp;Será utilizada a representação AHT encontrada em Barbosa e Silva, 2010.</p>
 
-## Participantes
-- Eduardo Lima
-- Luís Henrique
-- Samuel Pereira
-
 ## Versões
 
 <table class="versions">
@@ -61,6 +56,12 @@
 		<td>05/11/2019</td>
 	</tr>
 </table>
+
+## Participantes
+- Eduardo Lima
+- Luís Henrique
+- Samuel Pereira
+
 
 ## Registro
 <img src="../assets/aht/Registro.png">

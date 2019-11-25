@@ -7,10 +7,6 @@
 <br>
 &emsp;&emsp;Será utilizado o modelo CMN GOMS.</p>
 
-## Participantes
-- Eduardo Lima
-- Samuel Pereira
-
 ## Versões
 
 <table class="versions">
@@ -45,6 +41,10 @@
 		<td>13/11/2019</td>
 	</tr>
 </table>
+
+## Participantes
+- Eduardo Lima
+- Samuel Pereira
 
 ## Registro
 
