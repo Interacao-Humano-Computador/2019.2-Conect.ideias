@@ -136,10 +136,37 @@ Os usuários, por meio do teste de usabilidade, propuseram melhorias a serem fei
 		<td>Adicionar um filtro na busca que mostre quais são os projetos que já estou participando.</td>
 	</tr>	
 	<tr>
-		<td>4</td>
+		<td>5</td>
 		<td>Dar menos ênfase na parte de "Filtrar por Etiquetas", muitas vezes o usuário não lê o campo e já segue para o campo de pesquisar para procurar um projeto.</td>
 	</tr>	
 </table> 
 
+### Melhorias Propostas
 
+<table class="user">
+	<tr>
+		<th class="user_header">Usuário</th>
+		<th>Sugestão de Melhoria</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Adicionar asterisco em campos obrigatórios.</td>
+	</tr>	
+	<tr>
+		<td>2</td>
+		<td>Juntar pesquisa por tag e por nome e diminuir o espaço para a descrição do projeto.</td>
+	</tr>	
+	<tr>
+		<td>3</td>
+		<td>Adicionar um campo para adicionar os participantes do projeto.</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Adicionar uma aba de filtro com "Meus Projetos".</td>
+	</tr>	
+	<tr>
+		<td>5</td>
+		<td>Juntar pesquisa por tag e por nome.</td>
+	</tr>	
+</table> 
 

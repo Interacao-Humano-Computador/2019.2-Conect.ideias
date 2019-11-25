@@ -67,7 +67,7 @@ Os dados forma coletados por meio de uma gravação de tela e áudio do teste re
 
 ## Relatos
 
-Os relatos, assim como a análise dos resultados  estarão documentadas em [Protótipo de Alta Fidelidade](./prototipo_alta_fidelidade.md). Nesse documento estará disponível o protótipo, assim como os vídeos de tela dos usuários utilizando o protótipo.
+Os relatos, assim como a análise dos resultados  estarão documentadas em [Protótipo de Alta Fidelidade](./teste_usabilidade.md). Nesse documento estará disponível o protótipo, assim como os vídeos de tela dos usuários utilizando o protótipo.
 
 ## Referências
 - Capítulo 10 do Livro Interação Humano-Computador de Simone Diniz e Bruno Santana. Acesso em 22 de novembro de 2019.
