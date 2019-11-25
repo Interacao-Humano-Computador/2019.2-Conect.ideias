@@ -36,7 +36,8 @@
 
 ## Resultados
 
-<table class="versions">
+[Resultados da Avaliação do Protótipo de Alta Fidelidade](./teste_usabilidade.md)
+<!-- <table class="versions">
  <tr>
   <th>Teste</th>
   <th>Resultado</th>
@@ -50,7 +51,7 @@
   </th>
  </tr>
 </table> 
-<br>
+<br> -->
 
 ## Acesso
 O acesso ao Protótipo de Alta Fidelidade segue abaixo, sendo recomendada a utilização em tela cheia.
