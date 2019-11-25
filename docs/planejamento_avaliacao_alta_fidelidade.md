@@ -39,9 +39,8 @@ Os objetivos propostos foram:
 
 -  Identificar problemas na interação e interface:
 
-     - quantas vezes o usuário não conseguiu realizar tarefas por não achar o campo destinado a ela? 
-
-     - quantas vezes o usuário não conseguiu realizar tarefas por não achar o padrão intuitivo?
+     - Quantas vezes o usuário não conseguiu realizar tarefas por não achar o campo destinado a ela? 
+     - Quantas vezes o usuário não conseguiu realizar tarefas por não achar o padrão intuitivo?
 
 ## Tarefas
 
@@ -54,7 +53,7 @@ O que será avaliado com o protótipo:
 - Buscar um projeto específico.
 - Descobrir informações do projeto.
 	- Descrição.
-	- Pessoas que trabalham no projeto.
+	- Blog.
 - Solicitar participação no projeto.
 - Criação de um projeto
  

@@ -21,7 +21,7 @@ Micaella: A primeira tarefa é buscar por algum projeto.
 <br><br>
 Usuário: Achei, foi bem tranquilo encontrar a barra de pesquisa.
 <br><br>
-Micaella: Ótimo, agora que você encontrou, você precisa descobrir informações sobre o projeto. Descrição e pessoas que trabalham no projeto.
+Micaella: Ótimo, agora que você encontrou, você precisa descobrir informações sobre o projeto, descrição e pessoas que trabalham no projeto.
 <br><br>
 Usuário: Para descobrir as informações do projeto foi bem tranquilo, consegui ver um texto descrevendo o projeto e uma breve descrição do projeto logo acima.
 <br><br>
@@ -35,6 +35,6 @@ Usuário: Achar a aba de "Criar Projeto" foi fácil, adicionei o nome do projeto
 <br><br>
 Micaella: Ok, mais algum comentário?
 <br><br>
-Usuário: Não, foi tudo tranquilo e fácil, senti falta de conseguir entrar em contato com os participantes de algum projeto e de adicionar participantes na criação de um projeto.
+Usuário: Não, foi tudo tranquilo e fácil, senti falta de adicionar participantes na criação de um projeto.
 <br><br>
 Micaella: Tá bom, muito obrigada!
