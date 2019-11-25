@@ -30,15 +30,11 @@ Os objetivos da avaliação determinam quais critérios de usabilidade devem ser
 Os objetivos propostos foram:
 
 -  Avaliar a facilidade de aprendizado:
-
      - Qual o número de erros cometidos pelos usuários?
      - Quantos usuários conseguiram completar com sucesso as tarefas designadas?
      - Quantas vezes os usuários precisaram de ajuda?
-
 <br>
-
 -  Identificar problemas na interação e interface:
-
      - Quantas vezes o usuário não conseguiu realizar tarefas por não achar o campo destinado a ela? 
      - Quantas vezes o usuário não conseguiu realizar tarefas por não achar o padrão intuitivo?
 
@@ -67,7 +63,7 @@ Os dados forma coletados por meio de uma gravação de tela e áudio do teste re
 
 ## Relatos
 
-Os relatos, assim como a análise dos resultados  estarão documentadas em [Protótipo de Alta Fidelidade](./teste_usabilidade.md). Nesse documento estará disponível o protótipo, assim como os vídeos de tela dos usuários utilizando o protótipo.
+Os relatos, assim como a análise dos resultados  estarão documentadas em [Resultados da Avaliação do Protótipo de Alta Fidelidade](./teste_usabilidade.md). Nesse documento estará disponível o protótipo, assim como os vídeos de tela dos usuários utilizando o protótipo.
 
 ## Referências
 - Capítulo 10 do Livro Interação Humano-Computador de Simone Diniz e Bruno Santana. Acesso em 22 de novembro de 2019.
