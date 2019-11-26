@@ -38,3 +38,6 @@ Micaella: Ok, mais algum comentário?
 Usuário: Não, foi tudo tranquilo e fácil, senti falta de adicionar participantes na criação de um projeto.
 <br><br>
 Micaella: Tá bom, muito obrigada!
+
+## Link para o vídeo do teste de usabilidade do Usuário 3
+[https://www.youtube.com/watch?v=UU-rrrmwJ7g](https://www.youtube.com/watch?v=UU-rrrmwJ7g)

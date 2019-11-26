@@ -37,3 +37,6 @@ Micaella: Ok, mais algum comentário?
 Usuário: Não, foi bem intuitivo, porém senti falta de um filtro dos projetos em que estou participando na parte de busca dos catálogos.
 <br><br>
 Micaella: Tá bom, muito obrigada!
+
+## Link para o vídeo do teste de usabilidade do Usuário 4
+[https://youtu.be/sTxXoirSqHo](https://youtu.be/sTxXoirSqHo)

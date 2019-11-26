@@ -42,3 +42,6 @@ Sofia: Ok, mais algum comentário?
 Usuário: Não, achei um site muito fácil de mexer e de compreensão tranquila também. Não precisei de ajuda em nenhum momento, aprendi apenas explorando o site.
 <br><br>
 Sofia: Tá bom, muito obrigada!
+
+## Link para o vídeo do teste de usabilidade do Usuário 1
+[https://www.youtube.com/watch?v=SB2ccvI7FwM&feature=youtu.be](https://www.youtube.com/watch?v=SB2ccvI7FwM&feature=youtu.be)

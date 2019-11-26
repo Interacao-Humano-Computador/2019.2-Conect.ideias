@@ -42,3 +42,6 @@ Micaella: Ok, mais algum comentário?
 Usuário: Achei o site bem intuitivo e muito bonito visualmente, não tive dificuldade em manipulá-lo e entendi o propósito apenas explorando suas funcionalidades.
 <br><br>
 Micaella: Tá bom, muito obrigada!
+
+## Link para o vídeo do teste de usabilidade do Usuário 2
+[https://www.youtube.com/watch?v=dLzNaiAvMQI](https://www.youtube.com/watch?v=dLzNaiAvMQI)
