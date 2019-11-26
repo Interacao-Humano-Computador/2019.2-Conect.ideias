@@ -31,3 +31,14 @@ img {
 .version_header {
 	width: 15%;
 }
+
+.w3c img {
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+
+#lasti {
+	float: none;
+}

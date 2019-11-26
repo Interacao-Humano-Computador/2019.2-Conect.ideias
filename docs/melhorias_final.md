@@ -109,9 +109,9 @@ Para uma melhoria do projeto, analisaremos o que fora feito, assim como o que n�
 	</tr>
 	<tr>
 		<td>Aplicação a ferramenta do W3C para testar a usabilidade do site novo e do antigo.</td>
-        <td>Não entregue</td>
-        <td>Samuel Pereira, Luís Henrique e Eduardo Lima</td>
-        <td>-</td>
+        <td>Entregue</td>
+        <td>Samuel Pereira</td>
+        <td>25/11/2019</td>
 	</tr>
 </table> 
 <br>
