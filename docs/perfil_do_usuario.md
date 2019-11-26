@@ -5,7 +5,7 @@
 cujos objetivos devem ser apoiados pelo sistema sendo projetado.
 <br>
 &emsp;&emsp;A partir dos dados coletados, podemos agregar os valores em grupos e faixas na qual
-os usuários se encaixam, e assim traçar os perfi s de usuários com
+os usuários se encaixam, e assim traçar os perfis de usuários com
 características semelhantes e calcular a proporção de usuários que se encaixam em
 cada perfil.
 </p>
@@ -52,5 +52,6 @@ cada perfil.
 	</tr>
 </table>
 
-## Referências <div class="line"></div>
-<p text-align="justify">&emsp;&emsp;Barbosa, Simone D.J. Barbosa, Bruno Santana da Silva. Interação Humano-Computador, Editora Campus.</p>
+## Referências
+ 
+- Capítulo 06 do Livro Interação Humano-Computador de Simone Diniz e Bruno Santana. Acesso em 22 de novembro de 2019.
