@@ -18,6 +18,8 @@ nav:
     - Técnicas de Análise:
         - Entrevistas: entrevistas/entrevistas.md
         - Questionário: questionario.md
+  - Acessibilidade:
+    - WCAG: w3c.md
   - Concepção/Avaliação:
     - Guia de estilo: novo_guia.md
     - Metas de usabilidade: metas_usabilidade.md

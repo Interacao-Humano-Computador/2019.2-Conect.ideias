@@ -25,6 +25,11 @@
 		<td>Adição de Tab Stop e avaliação geral da página de Login e Cadastro, e referências</td>
 		<td>24/11/2019</td>
 	</tr>
+	<tr>
+		<td>1.2</td>
+		<td>Adição de avaliação geral das demais páginas</td>
+		<td>25/11/2019</td>
+	</tr>
 </table>
 
 ## Participantes
@@ -68,6 +73,31 @@
 | 3.3.2 Rótulos ou Instruções | Element Form não possui label que identifique o seu input. |
 | 3.3.1 Identificação do Erro | Não há atributo aria identificando o erro do login e o aviso aparece no topo da página. |
 | 4.1.3 Mensagem de Status | Não há utilização de role para a mensagem de erro. |
+| 1.4.10 Refluxo | É preciso realizar scroll em duas dimensões para que o conteúdo textual seja visível. |
+| 1.4.11 Contraste não-textual | Botões azuis e links presente no site não possuem contraste o suficiente. A mudança de estado do link quando o mouse está em cima do mesmo também não possui contraste suficiente. |
+| 1.4.11 Contraste não-textual | Cores azul do logotipo não possuem contraste suficiente com o fundo. |
+
+### Demais páginas
+<p align="justify">&emsp;&emsp;As demais páginas do site possuem uma estrutura similar, onde um único teste pode identificar problemas nas páginas como um todo.
+<br>
+&emsp;&emsp;Segue abaixo o relatório do teste realizado e os resultados referentes ao mesmo:</p>
+<img src="../assets/w3c/summarylore2.png">
+
+### Resultados
+| Diretriz | Descrição das ocorrências |
+|-|-|
+| 1.4.3 Contraste| O contraste de cores no site, principalmente as cores azuis claras, não tem uma proporção suficiente para atender a diretriz. |
+| 4.1.1 Análise | IDs duplicados, atributos src nulos e outras ocorrências. |
+| 1.1.1 Conteúdo Não Textual | Existência de imagens sem texto alternativo. |
+| 1.3.1 Informações e Relações | Elemento Form não possui label. |
+| 3.3.2 Rótulos ou Instruções | Elemento Form não possui label. |
+| 3.3.2 Rótulos ou Instruções | Element Form não possui label que identifique o seu input. |
+| 2.1.1 Teclado| O menu de usuário não é acessível em nenhuma página através do teclado. A opção excluir conta também não é acessível. |
+| 2.4.3 Ordem de Foco | É possível o foco do diálogo de exclusão de conta através de tabs e ignorá-lo completamente. |
+| 2.4.6 Cabeçalhos e Rótulos | Elemento heading de notificações não funciona como heading. |
+| 2.4.1 Ignorar Blocos | Não há mecanismos para pular blocos e ir direto ao conteúdo principal da página. |
+| 3.3.1 Identificação do Erro | Não há atributo aria identificando o erro de busca ou alerta de página. |
+| 4.1.3 Mensagem de Status | Não há utilização de role para mensagem de erro. |
 | 1.4.10 Refluxo | É preciso realizar scroll em duas dimensões para que o conteúdo textual seja visível. |
 | 1.4.11 Contraste não-textual | Botões azuis e links presente no site não possuem contraste o suficiente. A mudança de estado do link quando o mouse está em cima do mesmo também não possui contraste suficiente. |
 | 1.4.11 Contraste não-textual | Cores azul do logotipo não possuem contraste suficiente com o fundo. |
