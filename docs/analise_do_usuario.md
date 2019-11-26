@@ -9,7 +9,7 @@
 	<tr>
 		<td>1.0</td>
 		<td>Adição das personas.</td>
-		<td>-/-/2019</td>
+		<td>14/10/2019</td>
   </tr>
   <tr>
 		<td>1.2</td>
